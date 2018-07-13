@@ -1,0 +1,670 @@
+\indexentry{\IeC {\CYRA }\IeC {\cyrb }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyrt }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrishrt } \IeC {\cyrt }\IeC {\cyri }\IeC {\cyrp } \IeC {\cyrd }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh }!TREE}{7}
+\indexentry{TREE}{7}
+\indexentry{\IeC {\CYRP }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrya }\IeC {\cyrd }\IeC {\cyrk }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyrery }\IeC {\cyre } \IeC {\cyrs }\IeC {\cyrt }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrk }\IeC {\cyri }}{9}
+\indexentry{\IeC {\CYRU }\IeC {\cyrp }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrb }\IeC {\cyrl }\IeC {\cyro }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrm }\IeC {\cyri } \IeC {\cyro }\IeC {\cyrd }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyro }\IeC {\cyrg }\IeC {\cyro } \IeC {\cyrr }\IeC {\cyra }\IeC {\cyrz }\IeC {\cyrm }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyra }}{10}
+\indexentry{Алгоритмы}{11}
+\indexentry{Pascal}{11}
+\indexentry{Программы!время выполнения}{11}
+\indexentry{Приоритет}{12}
+\indexentry{Поиск!в глубину}{12}
+\indexentry{Алгоритмы!формализация}{14}
+\indexentry{Время выполнения!измерение}{15}
+\indexentry{Граф!ребро}{16}
+\indexentry{Граф!вершина}{16}
+\indexentry{Вершина!графа}{16}
+\indexentry{Ребро!графа}{16}
+\indexentry{Граф!представления}{16}
+\indexentry{Граф!ребро}{16}
+\indexentry{Граф!задача раскраски}{16}
+\indexentry{Задача!раскраски графа}{16}
+\indexentry{Алгоритм!раскраски графа}{16}
+\indexentry{Раскраска графа}{16}
+\indexentry{Алгоритм!жадный}{17}
+\indexentry{Граф!k-клика}{18}
+\indexentry{k-клика}{18}
+\indexentry{Программа!greedy}{19}
+\indexentry{LIST}{20}
+\indexentry{Список}{20}
+\indexentry{Абстрактный тип данных!LIST}{20}
+\indexentry{Абстрактный тип данных}{20}
+\indexentry{Абстрактный тип данных!SET}{20}
+\indexentry{Абстрактный тип данных!GRAPH}{20}
+\indexentry{Тип данных}{22}
+\indexentry{Инкапсуляция}{22}
+\indexentry{Оператор!NEXT}{23}
+\indexentry{Оператор!INSERT}{23}
+\indexentry{Оператор!MAKENULL}{23}
+\indexentry{Оператор!UNION}{23}
+\indexentry{Оператор!SIZE}{23}
+\indexentry{Структуры данных}{24}
+\indexentry{Ячейка}{24}
+\indexentry{Файл}{25}
+\indexentry{Указатель}{25}
+\indexentry{Задача!сортировки}{27}
+\indexentry{Сортировка}{27}
+\indexentry{Время выполнения!программ}{27}
+\indexentry{Временная сложность}{27}
+\indexentry{Асимптотические соотношения}{28}
+\indexentry{Правило!сумм}{31}
+\indexentry{Правило!произведений}{32}
+\indexentry{Программа!bubble}{32}
+\indexentry{Сортировка!алгоритм пузырька}{32}
+\indexentry{Анализ!программ}{33}
+\indexentry{PL/1}{33}
+\indexentry{Вызов процедур}{34}
+\indexentry{Рекуррентное соотношение}{34}
+\indexentry{Программа!fact}{34}
+\indexentry{Fortran}{35}
+\indexentry{Анализ!псевдопрограмм}{35}
+\indexentry{Псевдопрограммы}{35}
+\indexentry{Псевдоязык}{35}
+\indexentry{Практика программирования}{36}
+\indexentry{Программа-инструмент}{36}
+\indexentry{Фильтр}{37}
+\indexentry{Программа!spell}{37}
+\indexentry{UNIX}{37}
+\indexentry{Pascal!расширения}{38}
+\indexentry{Наибольший общий делитель}{40}
+\indexentry{Программа!форматирования текста}{40}
+\indexentry{Буфер}{40}
+\indexentry{Оператор!MAX}{42}
+\indexentry{Время выполнения!в наихудшем случае}{43}
+\indexentry{SIMULA 67}{43}
+\indexentry{Alphard}{43}
+\indexentry{C}{43}
+\indexentry{CLU}{43}
+\indexentry{MESA}{43}
+\indexentry{Russell}{43}
+\indexentry{Программа!END}{44}
+\indexentry{LIST}{44}
+\indexentry{Оператор!LOCATE}{45}
+\indexentry{Оператор!PREVIOUS}{45}
+\indexentry{Оператор!FIRST}{45}
+\indexentry{Оператор!PRINTLIST}{45}
+\indexentry{Программа!PURGE}{46}
+\indexentry{Программа!same}{46}
+\indexentry{Списки!реализация}{47}
+\indexentry{Списки!реализация посредством массивов}{47}
+\indexentry{Операторы!списков}{47}
+\indexentry{Списки!реализация посредством указателей}{49}
+\indexentry{Списки!однонаправленные}{49}
+\indexentry{Указатель!nil}{49}
+\indexentry{Списки!сравнение реализаций}{52}
+\indexentry{Fortran}{53}
+\indexentry{Algol}{53}
+\indexentry{Программа!move}{54}
+\indexentry{Списки!дважды связные}{55}
+\indexentry{Стек}{56}
+\indexentry{Стек!вершина}{56}
+\indexentry{STACK}{56}
+\indexentry{Абстрактный тип данных!STACK}{56}
+\indexentry{Операторы!стеков}{56}
+\indexentry{Оператор!TOP}{57}
+\indexentry{Вершина!стека}{57}
+\indexentry{Оператор!POP}{57}
+\indexentry{Оператор!PUSH}{57}
+\indexentry{Оператор!EMPTY}{57}
+\indexentry{Символ!стирающих символов| \textit }{57}
+\indexentry{Символ!символ-убийцу}{57}
+\indexentry{Программа!EDIT}{57}
+\indexentry{Реализация!стеков}{58}
+\indexentry{Стек!реализация посредством массива}{58}
+\indexentry{Операторы!очередей}{59}
+\indexentry{Оператор!FRONT}{59}
+\indexentry{Оператор!ENQUEUE}{59}
+\indexentry{Оператор!DEQUEUE}{59}
+\indexentry{Реализация!операторов очередей}{60}
+\indexentry{Реализация!очередей}{60}
+\indexentry{Циклические массивы}{60}
+\indexentry{QUEUE}{60}
+\indexentry{Абстрактный тип данных QUEUE}{60}
+\indexentry{Операторы!отображений}{64}
+\indexentry{Оператор!ASSIGN}{64}
+\indexentry{Оператор!COMPUTE}{64}
+\indexentry{Словари!реализация посредством массива}{64}
+\indexentry{Абстрактный тип данных!MAPPING}{65}
+\indexentry{Реализация!операторов отображений}{65}
+\indexentry{Рекурсивные процедуры}{66}
+\indexentry{Организация выполнения процедур}{66}
+\indexentry{Запись!активационная}{66}
+\indexentry{Активационные записи}{66}
+\indexentry{Задача!о ранце}{66}
+\indexentry{Программа!knapsack}{66}
+\indexentry{Рекурсивные процедуры!исключение}{67}
+\indexentry{Исключение рекурсий!полное}{67}
+\indexentry{Адрес!возврата}{68}
+\indexentry{Дерево}{74}
+\indexentry{Дерево!2-3\see {Дерево 2-3}}{74}
+\indexentry{Дерево!определение}{74}
+\indexentry{Узел дерева}{74}
+\indexentry{Корень!дерева}{74}
+\indexentry{Узел дерева!родитель}{74}
+\indexentry{Поддерево}{74}
+\indexentry{Узел дерева!сыновья}{74}
+\indexentry{Дерево!нулевое}{74}
+\indexentry{Дерево!путь}{75}
+\indexentry{Граф!путь}{75}
+\indexentry{Путь!в дереве}{75}
+\indexentry{Длина пути}{75}
+\indexentry{Узел дерева!предок}{75}
+\indexentry{Узел дерева!потомок}{75}
+\indexentry{Узел дерева!истинный предок}{75}
+\indexentry{Узел дерева!истинный потомок}{75}
+\indexentry{Лист дерева}{75}
+\indexentry{Узел дерева!высота}{75}
+\indexentry{Высота дерева}{75}
+\indexentry{Дерево!высота}{75}
+\indexentry{Узел дерева!глубина}{75}
+\indexentry{Дерево!порядок узлов}{75}
+\indexentry{Дерево!неупорядоченное}{75}
+\indexentry{Дерево!упорядоченное}{75}
+\indexentry{Дерево!способы обхода}{76}
+\indexentry{Программа!PREORDER}{77}
+\indexentry{Обход дерева!в прямом порядке}{77}
+\indexentry{Программа!INORDER}{77}
+\indexentry{Обход дерева!в обратном порядке}{77}
+\indexentry{Обход дерева!в симметричном порядке}{77}
+\indexentry{Дерево!выражений}{78}
+\indexentry{Дерево!помеченное}{78}
+\indexentry{Дерево!метки узлов}{78}
+\indexentry{Выражения!префиксная форма}{79}
+\indexentry{Выражения!постфиксная (польская) форма}{79}
+\indexentry{Выражения!инфиксная форма}{79}
+\indexentry{Абстрактный тип данных!TREE}{80}
+\indexentry{TREE}{80}
+\indexentry{Операторы!деревьев}{80}
+\indexentry{Оператор!PARENT}{80}
+\indexentry{Оператор!LEFTMOST\_CHILD}{80}
+\indexentry{Оператор!RIGHT\_SIBLING}{80}
+\indexentry{Оператор!LABEL}{80}
+\indexentry{Оператор!CREATEi}{80}
+\indexentry{Оператор!ROOT}{80}
+\indexentry{STACK}{81}
+\indexentry{Реализация!деревьев}{82}
+\indexentry{Дерево!представление посредством массива}{82}
+\indexentry{Дерево!представление посредством списоков сыновей}{83}
+\indexentry{LIST}{83}
+\indexentry{Программа!LEFTMOST_CHILD}{84}
+\indexentry{Реализация!операторов деревьев}{84}
+\indexentry{Программа!CREATE2}{86}
+\indexentry{Двоичное дерево}{88}
+\indexentry{Дерево!двоиное}{88}
+\indexentry{Дерево!двоичное, представление}{89}
+\indexentry{Коды Хаффмана}{89}
+\indexentry{Хаффмана коды}{89}
+\indexentry{Задача!конструирования кодов Хаффмана}{90}
+\indexentry{Алгоритм!Хаффмана}{90}
+\indexentry{Вес дерева}{90}
+\indexentry{Дерево!вес}{90}
+\indexentry{Программа!create}{93}
+\indexentry{Программа!Huffman}{94}
+\indexentry{Реализация!двоичных деревьев с помощью указателей}{95}
+\indexentry{Дерево!двоичное, реализация}{95}
+\indexentry{Обход дерева!в порядке уровней}{97}
+\indexentry{Узел дерева!степень}{98}
+\indexentry{Степень узла}{98}
+\indexentry{Дерево!двоичное полное}{98}
+\indexentry{Дерево!Хаффмана}{98}
+\indexentry{Множество!определение}{99}
+\indexentry{Множество!атом}{99}
+\indexentry{Атом}{99}
+\indexentry{Множество!линейно упорядоченное}{99}
+\indexentry{Pascal}{99}
+\indexentry{Множество!шаблон}{100}
+\indexentry{Множество!элемент}{100}
+\indexentry{Множество!пустое}{100}
+\indexentry{Множества!объединение}{100}
+\indexentry{Пересечение множеств}{100}
+\indexentry{Множества!пересечение}{100}
+\indexentry{Множества!разность}{101}
+\indexentry{Разность множеств}{101}
+\indexentry{Операторы!множеств}{101}
+\indexentry{Оператор!INTERSECTION}{101}
+\indexentry{Оператор!DIFFERENCE}{101}
+\indexentry{Множества!слияние}{101}
+\indexentry{Слияние множеств}{101}
+\indexentry{Программа!merge}{101}
+\indexentry{Объеденение множеств}{101}
+\indexentry{Оператор!MERGE}{101}
+\indexentry{Оператор!MEMBER}{101}
+\indexentry{Оператор!MIN}{101}
+\indexentry{Оператор!EQUAL}{101}
+\indexentry{Оператор!FIND}{101}
+\indexentry{Анализ!потока данных}{102}
+\indexentry{SET}{102}
+\indexentry{Программа!propagate}{104}
+\indexentry{Множество!реализации}{105}
+\indexentry{Множество!реализация посредством двоичного вектора}{105}
+\indexentry{SET}{105}
+\indexentry{Множество!универсальное}{105}
+\indexentry{Вектор!двоичный}{105}
+\indexentry{SET!объявление}{106}
+\indexentry{Реализация!операторов множеств}{106}
+\indexentry{MAPPING!объявление}{106}
+\indexentry{Множество!реализация посредством связанных списков}{106}
+\indexentry{Оператор!DELETE}{108}
+\indexentry{DICTIONARY}{109}
+\indexentry{Программа!tuna}{110}
+\indexentry{DICTIONARY}{110}
+\indexentry{Реализация!операторов словарей}{111}
+\indexentry{Реализация!словарей}{111}
+\indexentry{Словари!реализация}{111}
+\indexentry{Хеширование}{112}
+\indexentry{Хеширование!открытое}{113}
+\indexentry{Хеширование!закрытое}{113}
+\indexentry{Хеширование!хеш-функция}{113}
+\indexentry{Хеш-функция}{113}
+\indexentry{Хеширование!хеш-значение}{113}
+\indexentry{Хеширование!сегменты}{113}
+\indexentry{Pascal}{114}
+\indexentry{Словари!реализация посредством открытого хеширования}{114}
+\indexentry{Хеширование!закрытое, анализ}{116}
+\indexentry{Хеширование!повторное}{116}
+\indexentry{Хеширование!линейное}{116}
+\indexentry{Хеширование!разрешение коллизий}{117}
+\indexentry{Словари!реализация посредством закрытого хешироания}{117}
+\indexentry{Анализ!закрытого хэширования}{120}
+\indexentry{Метод!последовательного сдвига регистра}{123}
+\indexentry{Сумма по модулю 2}{123}
+\indexentry{MAPPING}{124}
+\indexentry{Реализация!операторов отображений}{125}
+\indexentry{Операторы!очереди с приоритетами}{125}
+\indexentry{Оператор!DELETEMIN}{125}
+\indexentry{Функция!приоритета}{125}
+\indexentry{QUEUE}{126}
+\indexentry{Программа!select}{127}
+\indexentry{Программа!выделения процессам машинного времени}{128}
+\indexentry{Реализация!операторов очереди с приоритетами}{128}
+\indexentry{Реализация!очередей с приоритетами}{128}
+\indexentry{PRIORITYQUEUE}{129}
+\indexentry{Абстрактный тип данных!PRIORITYQUEUE}{129}
+\indexentry{Дерево!частично упорядоченое}{130}
+\indexentry{Реализация!частично упорядоченных деревьев посредством массивов}{132}
+\indexentry{Куча}{132}
+\indexentry{PRIORITYQUEUE!объявление}{133}
+\indexentry{Мультисписки}{134}
+\indexentry{Поиск!в мультисписке}{138}
+\indexentry{Структуры данных!двойные}{139}
+\indexentry{Абстрактный тип данных}{139}
+\indexentry{Дерево двоичного поиска|(}{143}
+\indexentry{Pascal}{143}
+\indexentry{Оператор!дерева двоичного поиска}{143}
+\indexentry{Дерево двоичного поиска!определение}{143}
+\indexentry{Дерево двоичного поиска!характеристическое свойство}{143}
+\indexentry{Дерево двоичного поиска!представления множеств}{144}
+\indexentry{SET!представление посредством дерева двоичного поиска}{144}
+\indexentry{Дерево двоичного поиска!время выполнения операторов}{146}
+\indexentry{Дерево двоичного поиска!эффективность}{149}
+\indexentry{Частично упорядоченное дерево}{149}
+\indexentry{SET}{150}
+\indexentry{Нагруженное дерево}{150}
+\indexentry{Нагруженное дерево!узлы}{151}
+\indexentry{Trie}{151}
+\indexentry{Абстрактный тип данных!TRIE}{151}
+\indexentry{TRIENODE}{151}
+\indexentry{Абстрактный тип данных TRIENODE}{151}
+\indexentry{TRIENODE!операторы}{151}
+\indexentry{Операторы!узлов нагруженного дерева}{151}
+\indexentry{Оператор!VALUEOF}{151}
+\indexentry{Оператор!GETNEW}{151}
+\indexentry{TRIENODE!определение}{151}
+\indexentry{Нагруженное дерево!представление узлов посредством списков}{153}
+\indexentry{Нагруженное дерево!эффективность}{153}
+\indexentry{Дерево двоичного поиска|)}{154}
+\indexentry{Множество!представление посредством сбалансированного дерева}{154}
+\indexentry{Дерево!сбалансированное}{154}
+\indexentry{Операторы!2-3 дерева}{154}
+\indexentry{Множество!реализация посредством 2-3 дерева}{154}
+\indexentry{Дерево 2-3(2-3 дерево)}{154}
+\indexentry{Дерево 2-3(2-3 дерево)!вставка элемента}{156}
+\indexentry{Дерево 2-3(2-3 дерево)!удаление элемента}{157}
+\indexentry{Дерево 2-3(2-3 дерево)!тип данных узлов}{158}
+\indexentry{SET}{158}
+\indexentry{Дерево 2-3(2-3 дерево)!операторы}{159}
+\indexentry{Множество!с операторами MERGE и FIND}{164}
+\indexentry{Задача!эквивалентности}{164}
+\indexentry{Классы эквивалентности}{165}
+\indexentry{MFSET}{165}
+\indexentry{Операторы!АТД MFSET}{165}
+\indexentry{Оператор!INITIAL}{165}
+\indexentry{MFSET!объявления}{166}
+\indexentry{MFSET!быстрая реализация}{166}
+\indexentry{MFSET!реализация посредством деревьев}{168}
+\indexentry{Метод!сжатия путей}{170}
+\indexentry{Сжатие путей}{170}
+\indexentry{Аккермана функция}{171}
+\indexentry{Функция!Аккермана}{171}
+\indexentry{Оператор!SPLIT}{171}
+\indexentry{Задача!наибольшей общей}{171}
+\indexentry{Задача!подпоследовательности}{171}
+\indexentry{Наибольшая общая подпоследовательность}{171}
+\indexentry{diff}{172}
+\indexentry{Программа!НОП}{173}
+\indexentry{Дерево!АВЛ}{177}
+\indexentry{АВЛ-дерево}{177}
+\indexentry{Дерево!сбалансированное по высоте}{177}
+\indexentry{Конечный автомат}{177}
+\indexentry{MFSET}{177}
+\indexentry{Дерево 2-3(2-3 дерево)}{177}
+\indexentry{Ориентированный граф}{179}
+\indexentry{Вершина!ориентированного графа}{179}
+\indexentry{Ориентированный граф! вершина}{179}
+\indexentry{Дуги}{179}
+\indexentry{Ориентированный граф! дуга}{179}
+\indexentry{Ориентированный граф! путь}{179}
+\indexentry{Ориентированный граф! длина пути}{180}
+\indexentry{Путь!простой}{180}
+\indexentry{Ориентированный граф! путь простой}{180}
+\indexentry{Цикл}{180}
+\indexentry{Ориентированный граф! цикл}{180}
+\indexentry{Ориентированный граф! помеченный}{180}
+\indexentry{Граф!матрица смежности}{180}
+\indexentry{Матрица!смежности}{180}
+\indexentry{Ориентированный граф! матрица смежности}{180}
+\indexentry{Граф!список смежности}{181}
+\indexentry{Ориентированный граф! списки смежности}{181}
+\indexentry{Списки!смежности}{181}
+\indexentry{Абстрактный тип данных!для ориентированных графов}{181}
+\indexentry{Операторы!для орграфов}{182}
+\indexentry{Операторы!просмотра смежных вершин}{182}
+\indexentry{Оператор!VERTEX}{182}
+\indexentry{Реализация!операторы для орграфа}{182}
+\indexentry{Путь!в ориентированном графе}{183}
+\indexentry{Задача!нахождения кратчайшего пути с одним}{183}
+\indexentry{Задача!источником}{183}
+\indexentry{Дейкстры алгоритм}{183}
+\indexentry{Dijkstra}{183}
+\indexentry{Алгоритм!Дейкстры}{183}
+\indexentry{Матрица!кратчайших путей}{184}
+\indexentry{Алгоритм!Дейкстры, обоснование}{185}
+\indexentry{Путь!особый}{185}
+\indexentry{Алгоритм!Дейкстры, время выполнения}{186}
+\indexentry{Задача!общая нахождения кратчайших путей}{187}
+\indexentry{Алгоритм!Флойда}{187}
+\indexentry{Флойда алгоритм}{187}
+\indexentry{Программа!path}{189}
+\indexentry{Транзитивное замыкание}{190}
+\indexentry{Warshall}{190}
+\indexentry{Программа!Warshall}{190}
+\indexentry{Уоршелла алгоритм}{190}
+\indexentry{Алгоритм!Уоршелла}{190}
+\indexentry{Транзитивное замыкание!матрицы смежности}{190}
+\indexentry{Floyd}{190}
+\indexentry{Программа!вычисления транзитивного замыкания}{190}
+\indexentry{Вершина!центральная}{191}
+\indexentry{Вершина!эксцентриситет}{191}
+\indexentry{Эксцентриситет вершины}{191}
+\indexentry{Центр орграфа}{191}
+\indexentry{Ориентированный граф! центр}{191}
+\indexentry{Задача!нахождения центра орграфа}{191}
+\indexentry{Ориентированные графы! обход}{192}
+\indexentry{Метод!поиска в глубину}{192}
+\indexentry{Ориентированные графы! поиск в глубину}{192}
+\indexentry{Программа!dfs}{192}
+\indexentry{Программа!search}{192}
+\indexentry{Программа!поиска в глубину}{192}
+\indexentry{Лес!глубинный остовный}{193}
+\indexentry{Глубинный остовный лес}{193}
+\indexentry{Граф!глубинный остовный лес}{193}
+\indexentry{Дуги!дерева}{193}
+\indexentry{Лес!остовный}{193}
+\indexentry{Дуги!обратные}{194}
+\indexentry{Ориентированный граф! обратные дуги}{194}
+\indexentry{Дуги!прямые}{194}
+\indexentry{Ориентированный граф! прямые дуги}{194}
+\indexentry{Дуги!поперечные}{194}
+\indexentry{Ориентированный граф! поперечные дуги}{194}
+\indexentry{Нумерация глубинная}{194}
+\indexentry{ациклический}{195}
+\indexentry{Транзитивное замыкание!отношения частичного порядка}{195}
+\indexentry{Ориентированные графы! проверка ацикличности}{196}
+\indexentry{Сортировка!топологическа}{197}
+\indexentry{Программа!topsort}{197}
+\indexentry{Сильная связность}{198}
+\indexentry{Ориентированный граф! сильно связанная компонента}{198}
+\indexentry{Ориентированный граф! сильно связаный}{198}
+\indexentry{Ориентированный граф! редуцированный}{198}
+\indexentry{Алгоритм!нахождения сильно связных компонент}{198}
+\indexentry{Корень!ациклического орграфа}{200}
+\indexentry{Транзитивная редукция}{201}
+\indexentry{Ориентированный граф! транзитивная редукция}{201}
+\indexentry{Минимальный эквивалентный орграф}{201}
+\indexentry{Ориентированный граф! минимальный эквивалентный}{201}
+\indexentry{Задача!NP-полная}{202}
+\indexentry{Граф!неориентированный}{203}
+\indexentry{Задача!нахождения максимального}{203}
+\indexentry{Задача!паросочетания}{203}
+\indexentry{Подграф индуцированный}{203}
+\indexentry{Граф!связная компонента}{203}
+\indexentry{Граф!индуцированный подграф}{203}
+\indexentry{Граф!cвязный}{204}
+\indexentry{Граф!цикл}{204}
+\indexentry{Дерево!свободное}{204}
+\indexentry{Дерево!остовное}{206}
+\indexentry{свойством ОДМС | \textit }{206}
+\indexentry{Граф!остовное дерево минимальной стоимости}{206}
+\indexentry{Граф!остовное дерево}{206}
+\indexentry{Алгоритм!Прима}{206}
+\indexentry{Прима алгоритм}{206}
+\indexentry{Prim}{206}
+\indexentry{Программа!Prim}{206}
+\indexentry{C}{207}
+\indexentry{Крускала алгоритм}{209}
+\indexentry{Алгоритм!Крускала}{209}
+\indexentry{Kruskal}{209}
+\indexentry{Программа!Kruskal}{209}
+\indexentry{Абстрактный тип данных!MFSET}{210}
+\indexentry{MFSET}{211}
+\indexentry{Обход неориентированного графа}{211}
+\indexentry{Граф!обход вершин}{211}
+\indexentry{Ребро!дерева}{212}
+\indexentry{Ребро!обратное}{212}
+\indexentry{Метод!поиска в ширину}{213}
+\indexentry{Поиск!в ширину}{213}
+\indexentry{Программа!bfs}{213}
+\indexentry{Граф!точка сочленения}{214}
+\indexentry{Точка сочленения графа}{214}
+\indexentry{Граф!двусвязный}{215}
+\indexentry{Граф!k-связный}{215}
+\indexentry{k-связность}{215}
+\indexentry{Граф!двудольный}{217}
+\indexentry{Паросочетание}{217}
+\indexentry{Паросочетание!полное}{217}
+\indexentry{Паросочетание!максимальное}{217}
+\indexentry{Граф!чередующиейся цепи}{217}
+\indexentry{Цепь чередующаяся}{217}
+\indexentry{Метод!чередующихся цепей}{217}
+\indexentry{Алгоритм!нахождения максимального паросочетания}{218}
+\indexentry{Цикл!базовый}{219}
+\indexentry{Граф!полный}{220}
+\indexentry{Алгоритм!внутренней сортировки}{222}
+\indexentry{Сортировка!внутренняя}{222}
+\indexentry{Алгоритм!карманной сортировки}{222}
+\indexentry{Алгоритм!пузырька}{223}
+\indexentry{Лексикографический порядок}{224}
+\indexentry{Алгоритм!сортировки вставками}{224}
+\indexentry{Сортировка!вставками}{224}
+\indexentry{Алгоритм!сортировки посредством выбора}{225}
+\indexentry{Сортировка!посредством выбора}{225}
+\indexentry{Временная сложность!методов сортировки}{226}
+\indexentry{Алгоритм!Шелла}{228}
+\indexentry{Сортировка!Шелла}{228}
+\indexentry{Сортировка!быстрая}{228}
+\indexentry{Программа!quicksort}{228}
+\indexentry{Медиана}{229}
+\indexentry{Программа!findpivot}{229}
+\indexentry{Программа!partition}{231}
+\indexentry{Временная сложность!быстрой сортировки}{232}
+\indexentry{Время выполнения!в среднем}{233}
+\indexentry{Время выполнения в среднем!быстрой сортировки}{233}
+\indexentry{Программы!анализ}{234}
+\indexentry{Реализация!алгоритма быстрой сортировки}{236}
+\indexentry{Сортировка!пирамидальная}{237}
+\indexentry{Алгоритм!пирамидальной сортировки}{237}
+\indexentry{Частично упорядоченное дерево}{237}
+\indexentry{Программа!pushdown}{238}
+\indexentry{Программа!heapsort}{239}
+\indexentry{Анализ!пирамидальной сортировки}{240}
+\indexentry{Сортировка!карманная}{240}
+\indexentry{Оператор!CONCATENATE}{242}
+\indexentry{Конкатенация списков}{242}
+\indexentry{Программа!binsort}{242}
+\indexentry{Анализ!карманной сортировки}{243}
+\indexentry{Сортировка!множеств с большим значением ключей}{243}
+\indexentry{Сортировка!карманная двухэтапная}{244}
+\indexentry{Сортировка!поразрядная}{245}
+\indexentry{Алгоритм!поразрядной сортировки}{245}
+\indexentry{Программа!radixsort}{246}
+\indexentry{Анализ!поразрядной сортировки}{246}
+\indexentry{Дерево!решений}{247}
+\indexentry{Порядковые статистики}{250}
+\indexentry{Метод!линейный нахождения порядковых статистик}{251}
+\indexentry{Элемент опорный}{252}
+\indexentry{Задача!нахождения k-й порядковой}{252}
+\indexentry{Задача!статистики}{253}
+\indexentry{Программа!Shellsort}{254}
+\indexentry{Алгоритм!сортировки устойчивый}{255}
+\indexentry{Алгоритм!случайной сортировки}{255}
+\indexentry{Сортировка!случайная}{255}
+\indexentry{Мода}{255}
+\indexentry{Алгоритм!методы анализа}{257}
+\indexentry{Алгоритм!эффективность}{257}
+\indexentry{Эффективность алгоритмов}{257}
+\indexentry{Временная эффективность}{257}
+\indexentry{Алгоритм!временная эффективность}{257}
+\indexentry{Время выполнения!оценка}{258}
+\indexentry{Анализ!рекурсивных программ}{258}
+\indexentry{Программа!mergesort}{258}
+\indexentry{Сортировка!слиянием}{258}
+\indexentry{Рекуррентное соотношение}{259}
+\indexentry{Рекуррентное соотношение!решения}{259}
+\indexentry{Рекуррентное соотношение!оценка решения}{259}
+\indexentry{Рекуррентное соотношение!метод подстановки}{261}
+\indexentry{Рекуррентное соотношение!общее решение}{262}
+\indexentry{Рекуррентное соотношение!однородное решение}{263}
+\indexentry{Функция!управляющая}{263}
+\indexentry{Рекуррентное соотношение!частное решение}{263}
+\indexentry{Функция!мультипликативная}{263}
+\indexentry{Каталана числа}{266}
+\indexentry{Числа!Каталана}{266}
+\indexentry{Методы!разработки алгоритмов}{267}
+\indexentry{Метод!декомпозиции}{267}
+\indexentry{Поиск!с возвратом}{267}
+\indexentry{Поиск!локальный}{267}
+\indexentry{Ханойские башни}{267}
+\indexentry{Программа!mult}{269}
+\indexentry{Вычислительные затраты}{270}
+\indexentry{Дерево 2-3(2-3 дерево)}{270}
+\indexentry{Динамическое программирование}{271}
+\indexentry{Программа!вычисления вероятностей}{273}
+\indexentry{Триангуляция}{273}
+\indexentry{Задача!триангуляции многоугольника}{273}
+\indexentry{Триангуляция!минимальная}{274}
+\indexentry{В@витя пидор}{277}
+\indexentry{Решение!локально-оптимальное}{279}
+\indexentry{Решение!оптимальное}{279}
+\indexentry{Цикл!гамильтонов}{280}
+\indexentry{Задача!обхода доски шахматным конем}{281}
+\indexentry{Алгоритмы!эвристические}{281}
+\indexentry{Альфа-бета отсечение}{281}
+\indexentry{Дерево!игры}{282}
+\indexentry{Функция!выигрыша}{283}
+\indexentry{Программа!поиска с возвратом}{284}
+\indexentry{Метод!альфа-бета отсечения}{285}
+\indexentry{Дерево!игры}{285}
+\indexentry{Метод!ветвей и границ}{286}
+\indexentry{Задача!коммивояжера}{286}
+\indexentry{Эвристические решения}{292}
+\indexentry{Решение!локально-оптимальное}{293}
+\indexentry{Решение!глобально-оптимальное}{293}
+\indexentry{Задача!размещения блоков}{295}
+\indexentry{Треугольник Паскаля}{297}
+\indexentry{Задача!разбиения на абзацы}{297}
+\indexentry{Преобразование Фурье}{298}
+\indexentry{Задача!умножения целых чисел}{298}
+\indexentry{Динамическое программирование}{298}
+\indexentry{Память!основная}{299}
+\indexentry{Память!оперативная}{299}
+\indexentry{Память!внешняя}{299}
+\indexentry{Память!вторичная}{299}
+\indexentry{C}{299}
+\indexentry{Сортировка!внешняя}{301}
+\indexentry{Сортировка!слянием, ускорение}{304}
+\indexentry{Многоканальное слияние}{305}
+\indexentry{Сортировка!многоканальным слиянием}{305}
+\indexentry{Сортировка!многофазная}{306}
+\indexentry{Схема}{308}
+\indexentry{Схема!с шестью входными буферами}{308}
+\indexentry{Схема!с четыремя буферами}{309}
+\indexentry{Операторы!работы с файлами}{310}
+\indexentry{Запись!закрепленная}{311}
+\indexentry{Адрес!физический}{311}
+\indexentry{Хеширование!таблица сегментов}{313}
+\indexentry{Файл!хешированный}{314}
+\indexentry{Индекс!разреженный}{314}
+\indexentry{Поиск!линейный}{315}
+\indexentry{Поиск!двоичный}{315}
+\indexentry{Файл!индексированный}{315}
+\indexentry{Индекс!плотный}{316}
+\indexentry{Индекс!вторичный}{317}
+\indexentry{Дерево!поиска внешнее}{318}
+\indexentry{Дерево!поиска разветвленное}{318}
+\indexentry{Дерево!двоичного поиска \see {Дерево двоичного поиска}}{318}
+\indexentry{Дерево!m-арное}{318}
+\indexentry{Дерево!B-дерево|(}{318}
+\indexentry{В-дерево!Поиск записей}{319}
+\indexentry{В-дерево!удаление записей}{320}
+\indexentry{Оператор!MODIFY}{324}
+\indexentry{Дерево!В*-дерево}{324}
+\indexentry{Поиск!интерполяционный}{325}
+\indexentry{Дерево!B-дерево|)}{326}
+\indexentry{Управление памятью}{327}
+\indexentry{Pascal}{327}
+\indexentry{Lisp}{328}
+\indexentry{Ячейка}{328}
+\indexentry{UNIX}{328}
+\indexentry{Snobol}{328}
+\indexentry{APL}{328}
+\indexentry{Память!динамическая}{328}
+\indexentry{SETL}{328}
+\indexentry{Выделение памяти}{329}
+\indexentry{сборка мусора | \textit }{330}
+\indexentry{Чистка памяти}{330}
+\indexentry{Lisp}{330}
+\indexentry{Snobol}{330}
+\indexentry{Управление блоками одинакового размера}{331}
+\indexentry{Lisp}{331}
+\indexentry{Алгоритмы!чистки памяти}{331}
+\indexentry{Счетчик!контрольный}{331}
+\indexentry{Счетчик}{331}
+\indexentry{C}{332}
+\indexentry{Дойча — Шорра — Уэйта алгоритм}{334}
+\indexentry{Deutsch — Schorr — Waite}{334}
+\indexentry{Алгоритм!Дойча — Шорра — Уэйта}{334}
+\indexentry{Программа!nrdfs}{335}
+\indexentry{Программа!rotate}{336}
+\indexentry{Управление памятью}{340}
+\indexentry{Память!динамическая}{340}
+\indexentry{Бит заполнения}{340}
+\indexentry{Pascal}{341}
+\indexentry{Фрагментация}{341}
+\indexentry{Стратегия!первый подходящий}{345}
+\indexentry{Стратегия!самый подходящий}{345}
+\indexentry{Метод!близнецов}{347}
+\indexentry{Метод!близнецов экспоненциального типа}{347}
+\indexentry{Метод!близнецов с числами Фибоначчи}{347}
+\indexentry{Фибоначчи числа}{348}
+\indexentry{Метод!близнецов k-го порядка}{348}
+\indexentry{Фибоначчи числа}{348}
+\indexentry{Числа!Фиббоначи}{348}
+\indexentry{Счетчик!левых близнецов}{349}
+\indexentry{Уплотнение памяти}{350}
+\indexentry{Задача!уплотнения памяти}{351}
+\indexentry{Адрес!передачи}{352}
+\indexentry{Программа!вычисления адреса передачи}{352}
+\indexentry{Морриса алгоритм}{352}
+\indexentry{Алгоритм!Морриса}{352}
+\indexentry{Morris}{352}
+\indexentry{Snobol}{352}
+\indexentry{Lisp}{356}
+\indexentry{SETL}{356}

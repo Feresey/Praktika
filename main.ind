@@ -1,0 +1,767 @@
+\begin{theindex}
+  \providecommand*\lettergroupDefault[1]{}
+  \providecommand*\lettergroup[1]{%
+      \par\textbf{#1}\par
+      \nopagebreak
+  }
+
+  \lettergroupDefault{default}
+  \item \IeC {\CYRP }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrya }\IeC {\cyrd }\IeC {\cyrk }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyrery }\IeC {\cyre } \IeC {\cyrs }\IeC {\cyrt }\IeC {\cyra }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyri }\IeC {\cyrk }\IeC {\cyri }, 9
+  \item \IeC {\CYRA }\IeC {\cyrb }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyrt }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrishrt } \IeC {\cyrt }\IeC {\cyri }\IeC {\cyrp } \IeC {\cyrd }\IeC {\cyra }\IeC {\cyrn }\IeC {\cyrn }\IeC {\cyrery }\IeC {\cyrh }
+    \subitem TREE, 7
+  \item \IeC {\CYRU }\IeC {\cyrp }\IeC {\cyrr }\IeC {\cyra }\IeC {\cyrv }\IeC {\cyrl }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre } \IeC {\cyrb }\IeC {\cyrl }\IeC {\cyro }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrm }\IeC {\cyri } \IeC {\cyro }\IeC {\cyrd }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyra }\IeC {\cyrk }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyro }\IeC {\cyrg }\IeC {\cyro } \IeC {\cyrr }\IeC {\cyra }\IeC {\cyrz }\IeC {\cyrm }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyra }, 10
+  \item APL, 328
+  \item Algol, 53
+  \item Alphard, 43
+  \item C, 43, 207, 299, 332
+  \item CLU, 43
+  \item DICTIONARY, 109, 110
+  \item Deutsch — Schorr — Waite, 334
+  \item Dijkstra, 183
+  \item Floyd, 190
+  \item Fortran, 35, 53
+  \item Kruskal, 209
+  \item LIST, 20, 44, 83
+  \item Lisp, 328, 330, 331, 356
+  \item MAPPING, 124
+    \subitem объявление, 106
+  \item MESA, 43
+  \item MFSET, 165, 177, 211
+    \subitem быстрая реализация, 166
+    \subitem объявления, 166
+    \subitem реализация посредством деревьев, 168
+  \item Morris, 352
+  \item PL/1, 33
+  \item PRIORITYQUEUE, 129
+    \subitem объявление, 133
+  \item Pascal, 11, 99, 114, 143, 327, 341
+    \subitem расширения, 38
+  \item Prim, 206
+  \item QUEUE, 60, 126
+  \item Russell, 43
+  \item SET, 102, 105, 150, 158
+    \subitem объявление, 106
+    \subitem представление посредством дерева двоичного поиска, 144
+  \item SETL, 328, 356
+  \item SIMULA 67, 43
+  \item STACK, 56, 81
+  \item Snobol, 328, 330, 352
+  \item TREE, 7, 80
+  \item TRIENODE, 151
+    \subitem операторы, 151
+    \subitem определение, 151
+  \item Trie, 151
+  \item UNIX, 37, 328
+  \item Warshall, 190
+  \item diff, 172
+  \item k-клика, 18
+  \item k-связность, 215
+
+  \indexspace
+
+  \lettergroup{А}
+  \item Абстрактный тип данных, 20, 139
+    \subitem GRAPH, 20
+    \subitem LIST, 20
+    \subitem MAPPING, 65
+    \subitem MFSET, 209
+    \subitem PRIORITYQUEUE, 129
+    \subitem SET, 20
+    \subitem STACK, 56
+    \subitem TREE, 80
+    \subitem TRIE, 151
+    \subitem для ориентированных графов, 182
+  \item Абстрактный тип данных QUEUE, 60
+  \item Абстрактный тип данных TRIENODE, 151
+  \item АВЛ-дерево, 177
+  \item Адрес
+    \subitem возврата, 68
+    \subitem передачи, 352
+    \subitem физический, 311
+  \item Аккермана функция, 171
+  \item Активационные записи, 66
+  \item Алгоритм
+    \subitem внутренней сортировки, 222
+    \subitem временная эффективность, 257
+    \subitem Дейкстры, 183
+    \subitem Дейкстры, время выполнения, 186
+    \subitem Дейкстры, обоснование, 185
+    \subitem Дойча — Шорра — Уэйта, 334
+    \subitem жадный, 17
+    \subitem карманной сортировки, 222
+    \subitem Крускала, 209
+    \subitem методы анализа, 257
+    \subitem Морриса, 352
+    \subitem нахождения максимального паросочетания, 218
+    \subitem нахождения сильно связных компонент, 198
+    \subitem пирамидальной сортировки, 237
+    \subitem поразрядной сортировки, 245
+    \subitem Прима, 206
+    \subitem пузырька, 223
+    \subitem раскраски графа, 16
+    \subitem случайной сортировки, 255
+    \subitem сортировки вставками, 224
+    \subitem сортировки посредством выбора, 225
+    \subitem сортировки устойчивый, 255
+    \subitem Уоршелла, 190
+    \subitem Флойда, 187
+    \subitem Хаффмана, 90
+    \subitem Шелла, 228
+    \subitem эффективность, 257
+  \item Алгоритмы, 11
+    \subitem формализация, 14
+    \subitem чистки памяти, 331
+    \subitem эвристические, 281
+  \item Альфа-бета отсечение, 281
+  \item Анализ
+    \subitem закрытого хэширования, 120
+    \subitem карманной сортировки, 243
+    \subitem пирамидальной сортировки, 240
+    \subitem поразрядной сортировки, 246
+    \subitem потока данных, 102
+    \subitem программ, 33
+    \subitem псевдопрограмм, 35
+    \subitem рекурсивных программ, 258
+  \item Асимптотические соотношения, 28
+  \item Атом, 99
+  \item ациклический, 195
+
+  \indexspace
+
+  \lettergroup{Б}
+  \item Бит заполнения, 340
+  \item Буфер, 40
+
+  \indexspace
+
+  \lettergroup{В}
+  \item витя пидор, 277
+  \item В-дерево
+    \subitem Поиск записей, 319
+    \subitem удаление записей, 320
+  \item Вектор
+    \subitem двоичный, 105
+  \item Вершина
+    \subitem графа, 16
+    \subitem ориентированного графа, 179
+    \subitem стека, 57
+    \subitem центральная, 191
+    \subitem эксцентриситет, 191
+  \item Вес дерева, 90
+  \item Временная сложность, 27
+    \subitem быстрой сортировки, 232
+    \subitem методов сортировки, 226
+  \item Временная эффективность, 257
+  \item Время выполнения
+    \subitem в наихудшем случае, 43
+    \subitem в среднем, 233
+    \subitem измерение, 15
+    \subitem оценка, 258
+    \subitem программ, 27
+  \item Время выполнения в среднем
+    \subitem быстрой сортировки, 233
+  \item Выделение памяти, 329
+  \item Вызов процедур, 34
+  \item Выражения
+    \subitem инфиксная форма, 79
+    \subitem постфиксная (польская) форма, 79
+    \subitem префиксная форма, 79
+  \item Высота дерева, 75
+  \item Вычислительные затраты, 270
+
+  \indexspace
+
+  \lettergroup{Г}
+  \item Глубинный остовный лес, 193
+  \item Граф
+    \subitem cвязный, 204
+    \subitem k-клика, 18
+    \subitem k-связный, 215
+    \subitem вершина, 16
+    \subitem глубинный остовный лес, 193
+    \subitem двудольный, 217
+    \subitem двусвязный, 214
+    \subitem задача раскраски, 16
+    \subitem индуцированный подграф, 203
+    \subitem матрица смежности, 180
+    \subitem неориентированный, 203
+    \subitem обход вершин, 211
+    \subitem остовное дерево, 206
+    \subitem остовное дерево минимальной стоимости, 206
+    \subitem полный, 220
+    \subitem представления, 16
+    \subitem путь, 75
+    \subitem ребро, 16
+    \subitem связная компонента, 203
+    \subitem список смежности, 181
+    \subitem точка сочленения, 214
+    \subitem цикл, 204
+    \subitem чередующиейся цепи, 217
+
+  \indexspace
+
+  \lettergroup{Д}
+  \item Двоичное дерево, 88
+  \item Дейкстры алгоритм, 183
+  \item Дерево, 74
+    \subitem 2-3\see {Дерево 2-3}, 74
+    \subitem B-дерево, 318--326
+    \subitem m-арное, 318
+    \subitem АВЛ, 177
+    \subitem В*-дерево, 324
+    \subitem вес, 90
+    \subitem выражений, 78
+    \subitem высота, 75
+    \subitem двоиное, 88
+    \subitem двоичного поиска \see {Дерево двоичного поиска}, 318
+    \subitem двоичное полное, 98
+    \subitem двоичное, представление, 89
+    \subitem двоичное, реализация, 95
+    \subitem игры, 282, 285
+    \subitem метки узлов, 78
+    \subitem неупорядоченное, 75
+    \subitem нулевое, 74
+    \subitem определение, 74
+    \subitem остовное, 206
+    \subitem поиска внешнее, 318
+    \subitem поиска разветвленное, 318
+    \subitem помеченное, 78
+    \subitem порядок узлов, 75
+    \subitem представление посредством массива, 82
+    \subitem представление посредством списоков сыновей, 83
+    \subitem путь, 75
+    \subitem решений, 247
+    \subitem сбалансированное, 154
+    \subitem сбалансированное по высоте, 177
+    \subitem свободное, 204
+    \subitem способы обхода, 76
+    \subitem упорядоченное, 75
+    \subitem Хаффмана, 98
+    \subitem частично упорядоченое, 130
+  \item Дерево 2-3(2-3 дерево), 154, 177, 270
+    \subitem вставка элемента, 156
+    \subitem операторы, 159
+    \subitem тип данных узлов, 158
+    \subitem удаление элемента, 157
+  \item Дерево двоичного поиска, 143--154
+    \subitem время выполнения операторов, 146
+    \subitem определение, 143
+    \subitem представления множеств, 144
+    \subitem характеристическое свойство, 143
+    \subitem эффективность, 149
+  \item Динамическое программирование, 271, 298
+  \item Длина пути, 75
+  \item Дойча — Шорра — Уэйта алгоритм, 334
+  \item Дуги, 179
+    \subitem дерева, 193
+    \subitem обратные, 194
+    \subitem поперечные, 194
+    \subitem прямые, 194
+
+  \indexspace
+
+  \lettergroup{З}
+  \item Задача
+    \subitem NP-полная, 202
+    \subitem источником, 183
+    \subitem коммивояжера, 286
+    \subitem конструирования кодов Хаффмана, 90
+    \subitem наибольшей общей, 171
+    \subitem нахождения k-й порядковой, 252
+    \subitem нахождения кратчайшего пути с одним, 183
+    \subitem нахождения максимального, 203
+    \subitem нахождения центра орграфа, 191
+    \subitem о ранце, 66
+    \subitem обхода доски шахматным конем, 281
+    \subitem общая нахождения кратчайших путей, 187
+    \subitem паросочетания, 203
+    \subitem подпоследовательности, 171
+    \subitem разбиения на абзацы, 297
+    \subitem размещения блоков, 295
+    \subitem раскраски графа, 16
+    \subitem сортировки, 27
+    \subitem статистики, 253
+    \subitem триангуляции многоугольника, 273
+    \subitem умножения целых чисел, 298
+    \subitem уплотнения памяти, 351
+    \subitem эквивалентности, 164
+  \item Запись
+    \subitem активационная, 66
+    \subitem закрепленная, 311
+
+  \indexspace
+
+  \lettergroup{И}
+  \item Индекс
+    \subitem вторичный, 317
+    \subitem плотный, 316
+    \subitem разреженный, 314
+  \item Инкапсуляция, 22
+  \item Исключение рекурсий
+    \subitem полное, 67
+
+  \indexspace
+
+  \lettergroup{К}
+  \item Каталана числа, 266
+  \item Классы эквивалентности, 165
+  \item Коды Хаффмана, 89
+  \item Конечный автомат, 177
+  \item Конкатенация списков, 242
+  \item Корень
+    \subitem ациклического орграфа, 200
+    \subitem дерева, 74
+  \item Крускала алгоритм, 209
+  \item Куча, 132
+
+  \indexspace
+
+  \lettergroup{Л}
+  \item Лексикографический порядок, 224
+  \item Лес
+    \subitem глубинный остовный, 193
+    \subitem остовный, 193
+  \item Лист дерева, 75
+
+  \indexspace
+
+  \lettergroup{М}
+  \item Матрица
+    \subitem кратчайших путей, 184
+    \subitem смежности, 180
+  \item Медиана, 229
+  \item Метод
+    \subitem альфа-бета отсечения, 285
+    \subitem близнецов, 347
+    \subitem близнецов k-го порядка, 348
+    \subitem близнецов с числами Фибоначчи, 347
+    \subitem близнецов экспоненциального типа, 347
+    \subitem ветвей и границ, 286
+    \subitem декомпозиции, 267
+    \subitem линейный нахождения порядковых статистик, 251
+    \subitem поиска в глубину, 192
+    \subitem поиска в ширину, 212
+    \subitem последовательного сдвига регистра, 123
+    \subitem сжатия путей, 170
+    \subitem чередующихся цепей, 217
+  \item Методы
+    \subitem разработки алгоритмов, 267
+  \item Минимальный эквивалентный орграф, 201
+  \item Многоканальное слияние, 305
+  \item Множества
+    \subitem объединение, 100
+    \subitem пересечение, 100
+    \subitem разность, 101
+    \subitem слияние, 101
+  \item Множество
+    \subitem атом, 99
+    \subitem линейно упорядоченное, 99
+    \subitem определение, 99
+    \subitem представление посредством сбалансированного дерева, 154
+    \subitem пустое, 100
+    \subitem реализации, 105
+    \subitem реализация посредством 2-3 дерева, 154
+    \subitem реализация посредством двоичного вектора, 105
+    \subitem реализация посредством связанных списков, 106
+    \subitem с операторами MERGE и FIND, 164
+    \subitem универсальное, 105
+    \subitem шаблон, 100
+    \subitem элемент, 100
+  \item Мода, 255
+  \item Морриса алгоритм, 352
+  \item Мультисписки, 134
+
+  \indexspace
+
+  \lettergroup{Н}
+  \item Нагруженное дерево, 150
+    \subitem представление узлов посредством списков, 153
+    \subitem узлы, 151
+    \subitem эффективность, 153
+  \item Наибольшая общая подпоследовательность, 171
+  \item Наибольший общий делитель, 40
+  \item Нумерация глубинная, 194
+
+  \indexspace
+
+  \lettergroup{О}
+  \item Обход дерева
+    \subitem в обратном порядке, 77
+    \subitem в порядке уровней, 97
+    \subitem в прямом порядке, 77
+    \subitem в симметричном порядке, 77
+  \item Обход неориентированного графа, 211
+  \item Объеденение множеств, 101
+  \item Оператор
+    \subitem ASSIGN, 64
+    \subitem COMPUTE, 64
+    \subitem CONCATENATE, 242
+    \subitem CREATEi, 80
+    \subitem DELETE, 108
+    \subitem DELETEMIN, 125
+    \subitem DEQUEUE, 59
+    \subitem DIFFERENCE, 101
+    \subitem EMPTY, 57
+    \subitem ENQUEUE, 59
+    \subitem EQUAL, 101
+    \subitem FIND, 101
+    \subitem FIRST, 45
+    \subitem FRONT, 59
+    \subitem GETNEW, 151
+    \subitem INITIAL, 165
+    \subitem INSERT, 23
+    \subitem INTERSECTION, 101
+    \subitem LABEL, 80
+    \subitem LEFTMOST\_CHILD, 80
+    \subitem LOCATE, 45
+    \subitem MAKENULL, 23
+    \subitem MAX, 42
+    \subitem MEMBER, 101
+    \subitem MERGE, 101
+    \subitem MIN, 101
+    \subitem MODIFY, 324
+    \subitem NEXT, 23
+    \subitem PARENT, 80
+    \subitem POP, 57
+    \subitem PREVIOUS, 45
+    \subitem PRINTLIST, 45
+    \subitem PUSH, 57
+    \subitem RIGHT\_SIBLING, 80
+    \subitem ROOT, 80
+    \subitem SIZE, 23
+    \subitem SPLIT, 171
+    \subitem TOP, 57
+    \subitem UNION, 23
+    \subitem VALUEOF, 151
+    \subitem VERTEX, 182
+    \subitem дерева двоичного поиска, 143
+  \item Операторы
+    \subitem 2-3 дерева, 154
+    \subitem АТД MFSET, 165
+    \subitem деревьев, 80
+    \subitem для орграфов, 182
+    \subitem множеств, 101
+    \subitem отображений, 64
+    \subitem очередей, 59
+    \subitem очереди с приоритетами, 125
+    \subitem просмотра смежных вершин, 182
+    \subitem работы с файлами, 310
+    \subitem списков, 47
+    \subitem стеков, 56
+    \subitem узлов нагруженного дерева, 151
+  \item Организация выполнения процедур, 66
+  \item Ориентированные графы
+    \subitem  обход, 192
+    \subitem  поиск в глубину, 192
+    \subitem  проверка ацикличности, 196
+  \item Ориентированный граф, 179
+    \subitem  вершина, 179
+    \subitem  длина пути, 180
+    \subitem  дуга, 179
+    \subitem  матрица смежности, 180
+    \subitem  минимальный эквивалентный, 201
+    \subitem  обратные дуги, 194
+    \subitem  помеченный, 180
+    \subitem  поперечные дуги, 194
+    \subitem  прямые дуги, 194
+    \subitem  путь, 180
+    \subitem  путь простой, 180
+    \subitem  редуцированный, 198
+    \subitem  сильно связанная компонента, 198
+    \subitem  сильно связаный, 198
+    \subitem  списки смежности, 181
+    \subitem  транзитивная редукция, 201
+    \subitem  центр, 191
+    \subitem  цикл, 180
+
+  \indexspace
+
+  \lettergroup{П}
+  \item Память
+    \subitem внешняя, 299
+    \subitem вторичная, 299
+    \subitem динамическая, 328, 340
+    \subitem оперативная, 299
+    \subitem основная, 299
+  \item Паросочетание, 217
+    \subitem максимальное, 217
+    \subitem полное, 217
+  \item Пересечение множеств, 100
+  \item Подграф индуцированный, 203
+  \item Поддерево, 74
+  \item Поиск
+    \subitem в глубину, 12
+    \subitem в мультисписке, 138
+    \subitem в ширину, 212
+    \subitem двоичный, 315
+    \subitem интерполяционный, 325
+    \subitem линейный, 315
+    \subitem локальный, 267
+    \subitem с возвратом, 267
+  \item Порядковые статистики, 250
+  \item Правило
+    \subitem произведений, 32
+    \subitem сумм, 31
+  \item Практика программирования, 36
+  \item Преобразование Фурье, 298
+  \item Прима алгоритм, 206
+  \item Приоритет, 12
+  \item Программа
+    \subitem CREATE2, 86
+    \subitem EDIT, 57
+    \subitem END, 44
+    \subitem Huffman, 94
+    \subitem INORDER, 77
+    \subitem Kruskal, 209
+    \subitem LEFTMOST\_CHILD, 84
+    \subitem PREORDER, 77
+    \subitem PURGE, 46
+    \subitem Prim, 206
+    \subitem Shellsort, 254
+    \subitem Warshall, 190
+    \subitem bfs, 213
+    \subitem binsort, 242
+    \subitem bubble, 32
+    \subitem create, 93
+    \subitem dfs, 192
+    \subitem fact, 34
+    \subitem findpivot, 229
+    \subitem greedy, 19
+    \subitem heapsort, 239
+    \subitem knapsack, 66
+    \subitem merge, 101
+    \subitem mergesort, 258
+    \subitem move, 54
+    \subitem mult, 269
+    \subitem nrdfs, 335
+    \subitem partition, 231
+    \subitem path, 189
+    \subitem propagate, 104
+    \subitem pushdown, 238
+    \subitem quicksort, 228
+    \subitem radixsort, 246
+    \subitem rotate, 336
+    \subitem same, 46
+    \subitem search, 192
+    \subitem select, 127
+    \subitem spell, 37
+    \subitem topsort, 197
+    \subitem tuna, 110
+    \subitem выделения процессам машинного времени, 128
+    \subitem вычисления адреса передачи, 352
+    \subitem вычисления вероятностей, 273
+    \subitem вычисления транзитивного замыкания, 190
+    \subitem НОП, 173
+    \subitem поиска в глубину, 192
+    \subitem поиска с возвратом, 284
+    \subitem форматирования текста, 40
+  \item Программа-инструмент, 36
+  \item Программы
+    \subitem анализ, 234
+    \subitem время выполнения, 11
+  \item Псевдопрограммы, 35
+  \item Псевдоязык, 35
+  \item Путь
+    \subitem в дереве, 75
+    \subitem в ориентированном графе, 183
+    \subitem особый, 185
+    \subitem простой, 180
+
+  \indexspace
+
+  \lettergroup{Р}
+  \item Разность множеств, 101
+  \item Раскраска графа, 16
+  \item Реализация
+    \subitem алгоритма быстрой сортировки, 236
+    \subitem двоичных деревьев с помощью указателей, 95
+    \subitem деревьев, 82
+    \subitem операторов деревьев, 84
+    \subitem операторов множеств, 106
+    \subitem операторов отображений, 65, 125
+    \subitem операторов очередей, 60
+    \subitem операторов очереди с приоритетами, 128
+    \subitem операторов словарей, 111
+    \subitem операторы для орграфа, 182
+    \subitem очередей, 60
+    \subitem очередей с приоритетами, 128
+    \subitem словарей, 111
+    \subitem стеков, 58
+    \subitem частично упорядоченных деревьев посредством массивов, 132
+  \item Ребро
+    \subitem графа, 16
+    \subitem дерева, 212
+    \subitem обратное, 212
+  \item Рекуррентное соотношение, 34, 259
+    \subitem метод подстановки, 261
+    \subitem общее решение, 262
+    \subitem однородное решение, 263
+    \subitem оценка решения, 259
+    \subitem решения, 259
+    \subitem частное решение, 263
+  \item Рекурсивные процедуры, 66
+    \subitem исключение, 67
+  \item Решение
+    \subitem глобально-оптимальное, 293
+    \subitem локально-оптимальное, 279, 293
+    \subitem оптимальное, 279
+
+  \indexspace
+
+  \lettergroup{С}
+  \item Сжатие путей, 170
+  \item Сильная связность, 198
+  \item Символ
+    \subitem символ-убийцу, 57
+  \item Слияние множеств, 101
+  \item Словари
+    \subitem реализация, 111
+    \subitem реализация посредством закрытого хешироания, 117
+    \subitem реализация посредством массива, 64
+    \subitem реализация посредством открытого хеширования, 114
+  \item Сортировка, 27
+    \subitem алгоритм пузырька, 32
+    \subitem быстрая, 228
+    \subitem внешняя, 301
+    \subitem внутренняя, 222
+    \subitem вставками, 224
+    \subitem карманная, 240
+    \subitem карманная двухэтапная, 244
+    \subitem многоканальным слиянием, 305
+    \subitem многофазная, 306
+    \subitem множеств с большим значением ключей, 243
+    \subitem пирамидальная, 237
+    \subitem поразрядная, 245
+    \subitem посредством выбора, 225
+    \subitem слиянием, 258
+    \subitem случайная, 255
+    \subitem слянием, ускорение, 304
+    \subitem топологическа, 197
+    \subitem Шелла, 228
+  \item Списки
+    \subitem дважды связные, 55
+    \subitem однонаправленные, 49
+    \subitem реализация, 47
+    \subitem реализация посредством массивов, 47
+    \subitem реализация посредством указателей, 49
+    \subitem смежности, 181
+    \subitem сравнение реализаций, 52
+  \item Список, 20
+  \item Стек, 56
+    \subitem вершина, 56
+    \subitem реализация посредством массива, 58
+  \item Степень узла, 98
+  \item Стратегия
+    \subitem первый подходящий, 345
+    \subitem самый подходящий, 345
+  \item Структуры данных, 24
+    \subitem двойные, 139
+  \item Сумма по модулю 2, 123
+  \item Схема, 308
+    \subitem с четыремя буферами, 309
+    \subitem с шестью входными буферами, 308
+  \item Счетчик, 331
+    \subitem контрольный, 331
+    \subitem левых близнецов, 349
+
+  \indexspace
+
+  \lettergroup{Т}
+  \item Тип данных, 22
+  \item Точка сочленения графа, 214
+  \item Транзитивная редукция, 201
+  \item Транзитивное замыкание, 190
+    \subitem матрицы смежности, 190
+    \subitem отношения частичного порядка, 195
+  \item Треугольник Паскаля, 297
+  \item Триангуляция, 273
+    \subitem минимальная, 274
+
+  \indexspace
+
+  \lettergroup{У}
+  \item Узел дерева, 74
+    \subitem высота, 75
+    \subitem глубина, 75
+    \subitem истинный потомок, 75
+    \subitem истинный предок, 75
+    \subitem потомок, 75
+    \subitem предок, 75
+    \subitem родитель, 74
+    \subitem степень, 98
+    \subitem сыновья, 74
+  \item Указатель, 25
+    \subitem nil, 49
+  \item Уоршелла алгоритм, 190
+  \item Уплотнение памяти, 350
+  \item Управление блоками одинакового размера, 331
+  \item Управление памятью, 327, 340
+
+  \indexspace
+
+  \lettergroup{Ф}
+  \item Файл, 25
+    \subitem индексированный, 315
+    \subitem хешированный, 314
+  \item Фибоначчи числа, 348
+  \item Фильтр, 37
+  \item Флойда алгоритм, 187
+  \item Фрагментация, 341
+  \item Функция
+    \subitem Аккермана, 171
+    \subitem выигрыша, 283
+    \subitem мультипликативная, 263
+    \subitem приоритета, 125
+    \subitem управляющая, 263
+
+  \indexspace
+
+  \lettergroup{Х}
+  \item Ханойские башни, 267
+  \item Хаффмана коды, 89
+  \item Хеширование, 112
+    \subitem закрытое, 113
+    \subitem закрытое, анализ, 116
+    \subitem линейное, 116
+    \subitem открытое, 113
+    \subitem повторное, 116
+    \subitem разрешение коллизий, 117
+    \subitem сегменты, 113
+    \subitem таблица сегментов, 313
+    \subitem хеш-значение, 113
+    \subitem хеш-функция, 113
+  \item Хеш-функция, 113
+
+  \indexspace
+
+  \lettergroup{Ц}
+  \item Центр орграфа, 191
+  \item Цепь чередующаяся, 217
+  \item Цикл, 180
+    \subitem базовый, 219
+    \subitem гамильтонов, 280
+  \item Циклические массивы, 60
+
+  \indexspace
+
+  \lettergroup{Ч}
+  \item Частично упорядоченное дерево, 149, 237
+  \item Числа
+    \subitem Каталана, 266
+    \subitem Фиббоначи, 348
+  \item Чистка памяти, 330
+
+  \indexspace
+
+  \lettergroup{Э}
+  \item Эвристические решения, 292
+  \item Эксцентриситет вершины, 191
+  \item Элемент опорный, 252
+  \item Эффективность алгоритмов, 257
+
+  \indexspace
+
+  \lettergroup{Я}
+  \item Ячейка, 24, 328
+
+\end{theindex}

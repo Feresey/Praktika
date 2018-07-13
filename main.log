@@ -1,0 +1,1973 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.7.2)  13 JUL 2018 15:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-dist/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+)
+(/usr/share/texmf-dist/tex/latex/base/ot1enc.def
+File: ot1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding OT1 on input line 48.
+)))
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+(/usr/share/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+(/usr/share/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+))
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+(/usr/share/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/share/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count90
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(/usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen104
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count91
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count92
+\leftroot@=\count93
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count94
+\DOTSCASE@=\count95
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count96
+\c@MaxMatrixCols=\count97
+\dotsspace@=\muskip10
+\c@parentequation=\count98
+\dspbrk@lvl=\count99
+\tag@help=\toks17
+\row@=\count100
+\column@=\count101
+\maxfields@=\count102
+\andhelp@=\toks18
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texmf-dist/tex/latex/marvosym/marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+)
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/03/24 v5.7 Page Geometry
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count103
+\Gm@cntv=\count104
+\c@Gm@tempcnt=\count105
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks22
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen123
+\WF@size=\dimen124
+\c@WF@wrappedlines=\count106
+\WF@box=\box28
+\WF@everypar=\toks23
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip46
+\f@nch@O@elh=\skip47
+\f@nch@O@erh=\skip48
+\f@nch@O@olh=\skip49
+\f@nch@O@orh=\skip50
+\f@nch@O@elf=\skip51
+\f@nch@O@erf=\skip52
+\f@nch@O@olf=\skip53
+\f@nch@O@orf=\skip54
+)
+(/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen125
+\captionmargin@=\dimen126
+\captionwidth=\dimen127
+\caption@tempdima=\dimen128
+\caption@indent=\dimen129
+\caption@parindent=\dimen130
+\caption@hangindent=\dimen131
+)
+\c@ContinuedFloat=\count107
+Package caption Info: wrapfig package is loaded.
+)
+\c@subfigure=\count108
+\c@subtable=\count109
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count110
+\lst@gtempboxa=\box29
+\lst@token=\toks24
+\lst@length=\count111
+\lst@currlwidth=\dimen132
+\lst@column=\count112
+\lst@pos=\count113
+\lst@lostspace=\dimen133
+\lst@width=\dimen134
+\lst@newlines=\count114
+\lst@lineno=\count115
+\lst@maxwidth=\dimen135
+
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count116
+\lst@skipnumbers=\count117
+\lst@framebox=\box30
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+
+(/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
+\col@sep=\dimen136
+\ar@mcellbox=\box31
+\extrarowheight=\dimen137
+\NC@list=\toks25
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box32
+)
+\TX@col@width=\dimen138
+\TX@old@table=\dimen139
+\TX@old@col=\dimen140
+\TX@target=\dimen141
+\TX@delta=\dimen142
+\TX@cols=\count118
+\TX@ftn=\toks26
+)
+(/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box33
+\beforetitleunit=\skip57
+\aftertitleunit=\skip58
+\ttl@plus=\dimen143
+\ttl@minus=\dimen144
+\ttl@toksa=\toks27
+\titlewidth=\dimen145
+\titlewidthlast=\dimen146
+\titlewidthfirst=\dimen147
+)
+(/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip59
+\enit@outerparindent=\dimen148
+\enit@toks=\toks28
+\enit@inbox=\box34
+\enitdp@description=\count119
+)
+(/usr/share/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+)
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip60
+\cftbeforetoctitleskip=\skip61
+\cftaftertoctitleskip=\skip62
+\cftbeforepartskip=\skip63
+\cftpartnumwidth=\skip64
+\cftpartindent=\skip65
+\cftbeforechapskip=\skip66
+\cftchapindent=\skip67
+\cftchapnumwidth=\skip68
+\cftbeforesecskip=\skip69
+\cftsecindent=\skip70
+\cftsecnumwidth=\skip71
+\cftbeforesubsecskip=\skip72
+\cftsubsecindent=\skip73
+\cftsubsecnumwidth=\skip74
+\cftbeforesubsubsecskip=\skip75
+\cftsubsubsecindent=\skip76
+\cftsubsubsecnumwidth=\skip77
+\cftbeforeparaskip=\skip78
+\cftparaindent=\skip79
+\cftparanumwidth=\skip80
+\cftbeforesubparaskip=\skip81
+\cftsubparaindent=\skip82
+\cftsubparanumwidth=\skip83
+\cftbeforeloftitleskip=\skip84
+\cftafterloftitleskip=\skip85
+\cftbeforefigskip=\skip86
+\cftfigindent=\skip87
+\cftfignumwidth=\skip88
+\c@lofdepth=\count120
+\c@lotdepth=\count121
+\cftbeforelottitleskip=\skip89
+\cftafterlottitleskip=\skip90
+\cftbeforetabskip=\skip91
+\cfttabindent=\skip92
+\cfttabnumwidth=\skip93
+)
+(/usr/share/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+)
+\XKV@depth=\count122
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/04/01 v1.8r multicolumn formatting (FMi)
+\c@tracingmulticols=\count123
+\mult@box=\box35
+\multicol@leftmargin=\dimen149
+\c@unbalance=\count124
+\c@collectmore=\count125
+\doublecol@number=\count126
+\multicoltolerance=\count127
+\multicolpretolerance=\count128
+\full@width=\dimen150
+\page@free=\dimen151
+\premulticols=\dimen152
+\postmulticols=\dimen153
+\multicolsep=\skip94
+\multicolbaselineskip=\skip95
+\partial@page=\box36
+\last@line=\box37
+\maxbalancingoverflow=\dimen154
+\mult@rightbox=\box38
+\mult@grightbox=\box39
+\mult@gfirstbox=\box40
+\mult@firstbox=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\c@columnbadness=\count129
+\c@finalcolumnbadness=\count130
+\last@try=\dimen155
+\multicolovershoot=\dimen156
+\multicolundershoot=\dimen157
+\mult@nat@firstbox=\box59
+\colbreak@box=\box60
+\mc@col@check@num=\count131
+))
+\main@idxfile=\write3
+\openout3 = `main.idx'.
+
+
+Writing index file main.idx
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+)
+\main@idxfile=\write4
+\openout4 = `main.idx'.
+
+
+Writing index file main.idx
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 96.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 96.
+ (/usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 96.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 96.
+LaTeX Font Info:    ... okay on input line 96.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(76.82243pt, 458.08939pt, 62.59605pt)
+* v-part:(T,H,B)=(28.45274pt, 731.23584pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=458.08939pt
+* \textheight=731.23584pt
+* \oddsidemargin=4.55244pt
+* \evensidemargin=-9.67393pt
+* \topmargin=-75.69104pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count132
+\scratchdimen=\dimen158
+\scratchbox=\box61
+\nofMPsegments=\count133
+\nofMParguments=\count134
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count135
+\MPscratchDim=\dimen159
+\MPnumerator=\count136
+\makeMPintoPDFobject=\count137
+\everyMPtoPDFconversion=\toks32
+) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count138
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+LaTeX Font Info:    Try loading font information for U+msa on input line 172.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 172.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 212.
+
+
+(/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 212.
+ [4] [5] (./main.toc [6]
+[7] [8] [9])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ [10] [11
+
+] [12] [13]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
+[14
+
+] [15]
+<pictures/1.png, id=67, 351.3125pt x 305.14pt>
+File: pictures/1.png Graphic file (type png)
+<use pictures/1.png>
+Package pdftex.def Info: pictures/1.png  used on input line 353.
+(pdftex.def)             Requested size: 140.5225pt x 122.05382pt.
+<pictures/2.png, id=69, 401.5pt x 381.425pt>
+File: pictures/2.png Graphic file (type png)
+<use pictures/2.png>
+Package pdftex.def Info: pictures/2.png  used on input line 358.
+(pdftex.def)             Requested size: 160.59715pt x 152.56729pt.
+ [16 <./pictures/1.png> <./pictures/2.png>] [17]
+<pictures/3.png, id=78, 418.56375pt x 182.6825pt>
+File: pictures/3.png Graphic file (type png)
+<use pictures/3.png>
+Package pdftex.def Info: pictures/3.png  used on input line 408.
+(pdftex.def)             Requested size: 167.42252pt x 73.07169pt.
+ [18 <./pictures/3.png>]
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 450.
+ [19] [20] [21]
+<pictures/4.png, id=95, 475.7775pt x 161.60374pt>
+File: pictures/4.png Graphic file (type png)
+<use pictures/4.png>
+Package pdftex.def Info: pictures/4.png  used on input line 539.
+(pdftex.def)             Requested size: 190.30762pt x 64.64035pt.
+ [22 <./pictures/4.png>] [23] [24]
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 714
+.
+
+(/usr/share/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+<pictures/27.png, id=106, 279.79532pt x 165.99516pt>
+File: pictures/27.png Graphic file (type png)
+<use pictures/27.png>
+Package pdftex.def Info: pictures/27.png  used on input line 746.
+(pdftex.def)             Requested size: 458.08939pt x 271.78296pt.
+ [25] [26 <./pictures/27.png>] [27] [28]
+<pictures/31.png, id=124, 533.84111pt x 320.55649pt>
+File: pictures/31.png Graphic file (type png)
+<use pictures/31.png>
+Package pdftex.def Info: pictures/31.png  used on input line 962.
+(pdftex.def)             Requested size: 458.08939pt x 275.08134pt.
+ [29] [30 <./pictures/31.png>] [31] [32] [33] [34] [35] [36]
+[37] (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+) [38] [39] [40]
+[41] [42] [43]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
+[44
+
+] [45] [46]
+<pictures/48.png, id=190, 379.5121pt x 127.13466pt>
+File: pictures/48.png Graphic file (type png)
+<use pictures/48.png>
+Package pdftex.def Info: pictures/48.png  used on input line 1971.
+(pdftex.def)             Requested size: 458.08939pt x 153.46094pt.
+ [47 <./pictures/48.png>] [48]
+<pictures/pic51.png, id=198, 663.47874pt x 95.35625pt>
+File: pictures/pic51.png Graphic file (type png)
+<use pictures/pic51.png>
+Package pdftex.def Info: pictures/pic51.png  used on input line 2060.
+(pdftex.def)             Requested size: 431.25607pt x 61.98082pt.
+ [49 <./pictures/pic51.png>]
+[50]
+<pictures/pic53(1).png, id=208, 501.875pt x 382.42876pt>
+File: pictures/pic53(1).png Graphic file (type png)
+<use pictures/pic53(1).png>
+Package pdftex.def Info: pictures/pic53(1).png  used on input line 2136.
+(pdftex.def)             Requested size: 351.31009pt x 267.69829pt.
+<pictures/pic53(2).png, id=209, 526.96875pt x 81.30376pt>
+File: pictures/pic53(2).png Graphic file (type png)
+<use pictures/pic53(2).png>
+Package pdftex.def Info: pictures/pic53(2).png  used on input line 2142.
+(pdftex.def)             Requested size: 421.57556pt x 65.04308pt.
+ [51 <./pictures/pic53(1).png>] [52 <./pictures/pic53(2).png>]
+<pictures/pic(55).png, id=218, 341.275pt x 247.92625pt>
+File: pictures/pic(55).png Graphic file (type png)
+<use pictures/pic(55).png>
+Package pdftex.def Info: pictures/pic(55).png  used on input line 2183.
+(pdftex.def)             Requested size: 238.89085pt x 173.54718pt.
+ [53 <./pictures/pic(55).png>]
+<pictures/pic56.png, id=223, 437.635pt x 234.8775pt>
+File: pictures/pic56.png Graphic file (type png)
+<use pictures/pic56.png>
+Package pdftex.def Info: pictures/pic56.png  used on input line 2191.
+(pdftex.def)             Requested size: 306.3424pt x 164.41312pt.
+ [54 <./pictures/pic56.png>]
+<pictures/pic57.png, id=228, 463.7325pt x 42.1575pt>
+File: pictures/pic57.png Graphic file (type png)
+<use pictures/pic57.png>
+Package pdftex.def Info: pictures/pic57.png  used on input line 2252.
+(pdftex.def)             Requested size: 370.9865pt x 33.72603pt.
+ [55 <./pictures/pic57.png>]
+<pictures/pic58.png, id=234, 403.5075pt x 127.47626pt>
+File: pictures/pic58.png Graphic file (type png)
+<use pictures/pic58.png>
+Package pdftex.def Info: pictures/pic58.png  used on input line 2281.
+(pdftex.def)             Requested size: 322.80644pt x 101.98112pt.
+
+[56 <./pictures/pic58.png>] [57]
+<pictures/pic60.png, id=242, 340.27126pt x 184.69pt>
+File: pictures/pic60.png Graphic file (type png)
+<use pictures/pic60.png>
+Package pdftex.def Info: pictures/pic60.png  used on input line 2336.
+(pdftex.def)             Requested size: 272.21736pt x 147.75218pt.
+ [58 <./pictures/pic60.png>] [59] [60]
+<pictures/pic64.png, id=254, 472.76625pt x 379.4175pt>
+File: pictures/pic64.png Graphic file (type png)
+<use pictures/pic64.png>
+Package pdftex.def Info: pictures/pic64.png  used on input line 2469.
+(pdftex.def)             Requested size: 378.2135pt x 303.53441pt.
+ [61 <./pictures/pic64.png>]
+<pictures/pic65.png, id=260, 372.39125pt x 201.75375pt>
+File: pictures/pic65.png Graphic file (type png)
+<use pictures/pic65.png>
+Package pdftex.def Info: pictures/pic65.png  used on input line 2484.
+(pdftex.def)             Requested size: 297.91339pt x 161.40321pt.
+ [62 <./pictures/pic65.png>] [63] [64] [65] [66] [67]
+[68] [69] [70] [71]
+<pictures/p73.png, id=296, 3798.19pt x 2633.84pt>
+File: pictures/p73.png Graphic file (type png)
+<use pictures/p73.png>
+Package pdftex.def Info: pictures/p73.png  used on input line 2921.
+(pdftex.def)             Requested size: 322.87086pt x 223.89354pt.
+ [72 <./pictures/p73.png>] [73]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
+<pictures/p75.png, id=305, 2898.83pt x 1212.53pt>
+File: pictures/p75.png Graphic file (type png)
+<use pictures/p75.png>
+Package pdftex.def Info: pictures/p75.png  used on input line 3003.
+(pdftex.def)             Requested size: 405.83344pt x 169.75304pt.
+[74
+
+]
+<pictures/p76.png, id=309, 2834.59pt x 995.72pt>
+File: pictures/p76.png Graphic file (type png)
+<use pictures/p76.png>
+Package pdftex.def Info: pictures/p76.png  used on input line 3058.
+(pdftex.def)             Requested size: 283.4756pt x 99.57782pt.
+ [75 <./pictures/p75.png> <./pictures/p76.png>]
+<pictures/p77_1.png, id=315, 2569.6pt x 1357.07pt>
+File: pictures/p77_1.png Graphic file (type png)
+<use pictures/p77_1.png>
+Package pdftex.def Info: pictures/p77_1.png  used on input line 3073.
+(pdftex.def)             Requested size: 256.97505pt x 135.71495pt.
+<pictures/p77_2.png, id=316, 1638.12pt x 1236.62pt>
+File: pictures/p77_2.png Graphic file (type png)
+<use pictures/p77_2.png>
+Package pdftex.def Info: pictures/p77_2.png  used on input line 3106.
+(pdftex.def)             Requested size: 163.8216pt x 123.66924pt.
+ [76 <./pictures/p77_1.png>] [77 <./pictures/p77_2.png>]
+<pictures/p79.png, id=325, 295.12349pt x 233.93321pt>
+File: pictures/p79.png Graphic file (type png)
+<use pictures/p79.png>
+Package pdftex.def Info: pictures/p79.png  used on input line 3183.
+(pdftex.def)             Requested size: 206.58502pt x 163.75212pt.
+ [78 <./pictures/p79.png>]
+<pictures/p80.png, id=330, 2979.13pt x 1718.42pt>
+File: pictures/p80.png Graphic file (type png)
+<use pictures/p80.png>
+Package pdftex.def Info: pictures/p80.png  used on input line 3231.
+(pdftex.def)             Requested size: 297.93045pt x 171.85207pt.
+ [79 <./pictures/p80.png>] [80] [81]
+<pictures/p83.png, id=342, 2537.48pt x 2409.0pt>
+File: pictures/p83.png Graphic file (type png)
+<use pictures/p83.png>
+Package pdftex.def Info: pictures/p83.png  used on input line 3447.
+(pdftex.def)             Requested size: 304.48447pt x 289.06754pt.
+ [82 <./pictures/p83.png>]
+<pictures/p85.png, id=347, 5404.19pt x 2858.68pt>
+File: pictures/p85.png Graphic file (type png)
+<use pictures/p85.png>
+Package pdftex.def Info: pictures/p85.png  used on input line 3530.
+(pdftex.def)             Requested size: 432.34404pt x 228.69907pt.
+ [83] [84 <./pictures/p85.png>]
+<pictures/p87.png, id=355, 5412.22pt x 2874.74pt>
+File: pictures/p87.png Graphic file (type png)
+<use pictures/p87.png>
+Package pdftex.def Info: pictures/p87.png  used on input line 3633.
+(pdftex.def)             Requested size: 432.98645pt x 229.9839pt.
+ [85]
+<pictures/p88.png, id=360, 3131.7pt x 2425.06pt>
+File: pictures/p88.png Graphic file (type png)
+<use pictures/p88.png>
+Package pdftex.def Info: pictures/p88.png  used on input line 3674.
+(pdftex.def)             Requested size: 297.51459pt x 230.38309pt.
+
+[86 <./pictures/p87.png>]
+<pictures/p89.png, id=365, 5307.83pt x 2521.42pt>
+File: pictures/p89.png Graphic file (type png)
+<use pictures/p89.png>
+Package pdftex.def Info: pictures/p89.png  used on input line 3710.
+(pdftex.def)             Requested size: 382.19588pt x 181.5575pt.
+ [87 <./pictures/p88.png> <./pictures/p89.png>]
+<pictures/p90_1.png, id=371, 725.71124pt x 635.37375pt>
+File: pictures/p90_1.png Graphic file (type png)
+<use pictures/p90_1.png>
+Package pdftex.def Info: pictures/p90_1.png  used on input line 3759.
+(pdftex.def)             Requested size: 580.56978pt x 508.29968pt.
+<pictures/p90_2.png, id=372, 246.9225pt x 505.89pt>
+File: pictures/p90_2.png Graphic file (type png)
+<use pictures/p90_2.png>
+Package pdftex.def Info: pictures/p90_2.png  used on input line 3764.
+(pdftex.def)             Requested size: 78.51945pt x 160.86916pt.
+
+[88 <./pictures/p90_1.png> <./pictures/p90_2.png>] [89]
+<pictures/p92.png, id=381, 5653.12pt x 2055.68pt>
+File: pictures/p92.png Graphic file (type png)
+<use pictures/p92.png>
+Package pdftex.def Info: pictures/p92.png  used on input line 3898.
+(pdftex.def)             Requested size: 423.96571pt x 154.16934pt.
+ [90]
+<pictures/p93.png, id=385, 2858.68pt x 1975.38pt>
+File: pictures/p93.png Graphic file (type png)
+<use pictures/p93.png>
+Package pdftex.def Info: pictures/p93.png  used on input line 3932.
+(pdftex.def)             Requested size: 285.88475pt x 197.54958pt.
+ [91 <./pictures/p92.png> <./pictures/p93.png>]
+<pictures/p94.png, id=392, 4344.23pt x 1244.65pt>
+File: pictures/p94.png Graphic file (type png)
+<use pictures/p94.png>
+Package pdftex.def Info: pictures/p94.png  used on input line 3985.
+(pdftex.def)             Requested size: 434.44846pt x 124.47229pt.
+ [92 <./pictures/p94.png>] [93]
+<pictures/p96.png, id=400, 4023.03pt x 1967.35pt>
+File: pictures/p96.png Graphic file (type png)
+<use pictures/p96.png>
+Package pdftex.def Info: pictures/p96.png  used on input line 4090.
+(pdftex.def)             Requested size: 402.32657pt x 196.74652pt.
+ [94 <./pictures/p96.png>]
+<pictures/3,18.png, id=405, 271.76532pt x 232.61906pt>
+File: pictures/3,18.png Graphic file (type png)
+<use pictures/3,18.png>
+Package pdftex.def Info: pictures/3,18.png  used on input line 4161.
+(pdftex.def)             Requested size: 217.41254pt x 186.09549pt.
+ [95] [96 <./pictures/3,18.png>] [97] [98]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+[99
+
+] [100] [101]
+<pictures/4,1.png, id=429, 341.02406pt x 473.51906pt>
+File: pictures/4,1.png Graphic file (type png)
+<use pictures/4,1.png>
+Package pdftex.def Info: pictures/4,1.png  used on input line 4413.
+(pdftex.def)             Requested size: 306.91881pt x 426.1632pt.
+ [102 <./pictures/4,1.png>] [103] [104] [105] [106] [107]
+[108]
+<pictures/4,2.png, id=453, 482.55281pt x 326.72063pt>
+File: pictures/4,2.png Graphic file (type png)
+<use pictures/4,2.png>
+Package pdftex.def Info: pictures/4,2.png  used on input line 4719.
+(pdftex.def)             Requested size: 289.5339pt x 196.03387pt.
+ [109 <./pictures/4,2.png>] [110] [111] [112]
+<pictures/4,3.png, id=467, 468.24937pt x 211.54031pt>
+File: pictures/4,3.png Graphic file (type png)
+<use pictures/4,3.png>
+Package pdftex.def Info: pictures/4,3.png  used on input line 4925.
+(pdftex.def)             Requested size: 374.59999pt x 169.23247pt.
+ [113 <./pictures/4,3.png>]
+[114] [115]
+<pictures/4,4.png, id=478, 134.00063pt x 228.10219pt>
+File: pictures/4,4.png Graphic file (type png)
+<use pictures/4,4.png>
+Package pdftex.def Info: pictures/4,4.png  used on input line 5068.
+(pdftex.def)             Requested size: 93.79977pt x 159.67043pt.
+ [116 <./pictures/4,4.png>]
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 5105.
+
+ [117] [118] [119] [120] [121]
+<pictures/4,5.png, id=499, 383.18156pt x 267.24844pt>
+File: pictures/4,5.png Graphic file (type png)
+<use pictures/4,5.png>
+Package pdftex.def Info: pictures/4,5.png  used on input line 5306.
+(pdftex.def)             Requested size: 383.18062pt x 267.24779pt.
+ [122 <./pictures/4,5.png>] [123] [124] [125] [126] [127] [128] [129]
+<pictures/4,6.png, id=525, 222.8325pt x 122.70844pt>
+File: pictures/4,6.png Graphic file (type png)
+<use pictures/4,6.png>
+Package pdftex.def Info: pictures/4,6.png  used on input line 5611.
+(pdftex.def)             Requested size: 267.39766pt x 147.24937pt.
+ [130 <./pictures/4,6.png>]
+<pictures/4,7.png, id=529, 391.4625pt x 284.56313pt>
+File: pictures/4,7.png Graphic file (type png)
+<use pictures/4,7.png>
+Package pdftex.def Info: pictures/4,7.png  used on input line 5627.
+(pdftex.def)             Requested size: 430.61006pt x 313.0204pt.
+ [131 <./pictures/4,7.png>]
+<pictures/4,8.png, id=533, 392.21532pt x 143.03438pt>
+File: pictures/4,8.png Graphic file (type png)
+<use pictures/4,8.png>
+Package pdftex.def Info: pictures/4,8.png  used on input line 5648.
+(pdftex.def)             Requested size: 431.43817pt x 157.33827pt.
+ [132 <./pictures/4,8.png>] [133] [134]
+[135] [136]
+<pictures/4,9.png, id=550, 426.09187pt x 156.585pt>
+File: pictures/4,9.png Graphic file (type png)
+<use pictures/4,9.png>
+Package pdftex.def Info: pictures/4,9.png  used on input line 5867.
+(pdftex.def)             Requested size: 426.09082pt x 156.58461pt.
+ [137 <./pictures/4,9.png>] [138] [139]
+<pictures/4,10.png, id=561, 398.99063pt x 215.30438pt>
+File: pictures/4,10.png Graphic file (type png)
+<use pictures/4,10.png>
+Package pdftex.def Info: pictures/4,10.png  used on input line 5985.
+(pdftex.def)             Requested size: 438.89105pt x 236.83554pt.
+ [140 <./pictures/4,10.png>]
+[141] [142]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
+<pictures/5,1.png, id=571, 272.51813pt x 173.89969pt>
+File: pictures/5,1.png Graphic file (type png)
+<use pictures/5,1.png>
+Package pdftex.def Info: pictures/5,1.png  used on input line 6123.
+(pdftex.def)             Requested size: 272.51746pt x 173.89925pt.
+[143
+
+] [144 <./pictures/5,1.png>] [145]
+<pictures/5,2.png, id=582, 160.34906pt x 121.95563pt>
+File: pictures/5,2.png Graphic file (type png)
+<use pictures/5,2.png>
+Package pdftex.def Info: pictures/5,2.png  used on input line 6227.
+(pdftex.def)             Requested size: 160.34866pt x 121.9553pt.
+ [146 <./pictures/5,2.png>]
+<pictures/5,3.png, id=586, 356.0803pt x 138.5175pt>
+File: pictures/5,3.png Graphic file (type png)
+<use pictures/5,3.png>
+Package pdftex.def Info: pictures/5,3.png  used on input line 6251.
+(pdftex.def)             Requested size: 356.07944pt x 138.51715pt.
+ [147 <./pictures/5,3.png>] [148] [149] [150]
+<pictures/5,4.png, id=601, 232.61906pt x 155.83218pt>
+File: pictures/5,4.png Graphic file (type png)
+<use pictures/5,4.png>
+Package pdftex.def Info: pictures/5,4.png  used on input line 6359.
+(pdftex.def)             Requested size: 232.61848pt x 155.8318pt.
+ [151 <./pictures/5,4.png>] [152] [153]
+<pictures/5,5.png, id=612, 232.61906pt x 121.95563pt>
+File: pictures/5,5.png Graphic file (type png)
+<use pictures/5,5.png>
+Package pdftex.def Info: pictures/5,5.png  used on input line 6520.
+(pdftex.def)             Requested size: 232.61848pt x 121.9553pt.
+ [154 <./pictures/5,5.png>]
+<pictures/5,6.png, id=616, 263.48438pt x 130.98938pt>
+File: pictures/5,6.png Graphic file (type png)
+<use pictures/5,6.png>
+Package pdftex.def Info: pictures/5,6.png  used on input line 6546.
+(pdftex.def)             Requested size: 263.48372pt x 130.98904pt.
+ [155 <./pictures/5,6.png>]
+<pictures/5,7.png, id=620, 286.82156pt x 134.75343pt>
+File: pictures/5,7.png Graphic file (type png)
+<use pictures/5,7.png>
+Package pdftex.def Info: pictures/5,7.png  used on input line 6577.
+(pdftex.def)             Requested size: 286.82085pt x 134.7531pt.
+<pictures/5,8.png, id=621, 402.75468pt x 203.25937pt>
+File: pictures/5,8.png Graphic file (type png)
+<use pictures/5,8.png>
+Package pdftex.def Info: pictures/5,8.png  used on input line 6586.
+(pdftex.def)             Requested size: 362.47586pt x 182.93173pt.
+ [156 <./pictures/5,7.png> <./pictures/5,8.png>]
+<pictures/5,9.png, id=625, 396.7322pt x 212.29312pt>
+File: pictures/5,9.png Graphic file (type png)
+<use pictures/5,9.png>
+Package pdftex.def Info: pictures/5,9.png  used on input line 6606.
+(pdftex.def)             Requested size: 357.05566pt x 191.06204pt.
+ [157 <./pictures/5,9.png>] [158] [159] [160] [161] [162]
+[163] [164] [165] [166] [167]
+<pictures/5,10.png, id=661, 246.1697pt x 137.01187pt>
+File: pictures/5,10.png Graphic file (type png)
+<use pictures/5,10.png>
+Package pdftex.def Info: pictures/5,10.png  used on input line 7110.
+(pdftex.def)             Requested size: 246.16908pt x 137.01154pt.
+ [168 <./pictures/5,10.png>]
+<pictures/5,11.png, id=665, 315.42844pt x 162.6075pt>
+File: pictures/5,11.png Graphic file (type png)
+<use pictures/5,11.png>
+Package pdftex.def Info: pictures/5,11.png  used on input line 7125.
+(pdftex.def)             Requested size: 315.42766pt x 162.6071pt.
+<pictures/5,12.png, id=666, 126.4725pt x 167.87718pt>
+File: pictures/5,12.png Graphic file (type png)
+<use pictures/5,12.png>
+Package pdftex.def Info: pictures/5,12.png  used on input line 7135.
+(pdftex.def)             Requested size: 126.47218pt x 167.87677pt.
+ [169 <./pictures/5,11.png> <./pictures/5,12.png>]
+<pictures/5,13.png, id=671, 394.47375pt x 212.29312pt>
+File: pictures/5,13.png Graphic file (type png)
+<use pictures/5,13.png>
+Package pdftex.def Info: pictures/5,13.png  used on input line 7154.
+(pdftex.def)             Requested size: 394.47278pt x 212.2926pt.
+ [170 <./pictures/5,13.png>] [171]
+<pictures/5,14.png, id=679, 126.4725pt x 56.46094pt>
+File: pictures/5,14.png Graphic file (type png)
+<use pictures/5,14.png>
+Package pdftex.def Info: pictures/5,14.png  used on input line 7201.
+(pdftex.def)             Requested size: 126.47218pt x 56.46078pt.
+ [172 <./pictures/5,14.png>] [173]
+<pictures/5,15.png, id=686, 392.21532pt x 157.33781pt>
+File: pictures/5,15.png Graphic file (type png)
+<use pictures/5,15.png>
+Package pdftex.def Info: pictures/5,15.png  used on input line 7289.
+(pdftex.def)             Requested size: 392.21436pt x 157.33742pt.
+ [174 <./pictures/5,15.png>]
+<pictures/5,16.png, id=690, 231.11343pt x 277.78781pt>
+File: pictures/5,16.png Graphic file (type png)
+<use pictures/5,16.png>
+Package pdftex.def Info: pictures/5,16.png  used on input line 7302.
+(pdftex.def)             Requested size: 277.33473pt x 333.34367pt.
+ [175 <./pictures/5,16.png>]
+[176] [177] [178]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
+<pictures/6,0.png, id=704, 133.24782pt x 30.86531pt>
+File: pictures/6,0.png Graphic file (type png)
+<use pictures/6,0.png>
+Package pdftex.def Info: pictures/6,0.png  used on input line 7387.
+(pdftex.def)             Requested size: 133.24748pt x 30.86522pt.
+<pictures/6,1.png, id=705, 127.97812pt x 82.80937pt>
+File: pictures/6,1.png Graphic file (type png)
+<use pictures/6,1.png>
+Package pdftex.def Info: pictures/6,1.png  used on input line 7396.
+(pdftex.def)             Requested size: 127.9778pt x 82.80916pt.
+[179
+
+ <./pictures/6,0.png> <./pictures/6,1.png>]
+<pictures/6,2.png, id=709, 113.67468pt x 113.67468pt>
+File: pictures/6,2.png Graphic file (type png)
+<use pictures/6,2.png>
+Package pdftex.def Info: pictures/6,2.png  used on input line 7412.
+(pdftex.def)             Requested size: 113.6744pt x 113.6744pt.
+ [180 <./pictures/6,2.png>]
+<pictures/6,3.png, id=713, 157.33781pt x 67.0003pt>
+File: pictures/6,3.png Graphic file (type png)
+<use pictures/6,3.png>
+Package pdftex.def Info: pictures/6,3.png  used on input line 7431.
+(pdftex.def)             Requested size: 157.33742pt x 67.00012pt.
+<pictures/6,4.png, id=714, 261.22594pt x 111.41624pt>
+File: pictures/6,4.png Graphic file (type png)
+<use pictures/6,4.png>
+Package pdftex.def Info: pictures/6,4.png  used on input line 7441.
+(pdftex.def)             Requested size: 261.22528pt x 111.41597pt.
+<pictures/6,5.png, id=715, 176.15813pt x 176.91093pt>
+File: pictures/6,5.png Graphic file (type png)
+<use pictures/6,5.png>
+Package pdftex.def Info: pictures/6,5.png  used on input line 7449.
+(pdftex.def)             Requested size: 140.92668pt x 141.52893pt.
+
+[181 <./pictures/6,3.png> <./pictures/6,4.png>] [182 <./pictures/6,5.png>]
+[183]
+<pictures/6,6.png, id=727, 143.03438pt x 137.01187pt>
+File: pictures/6,6.png Graphic file (type png)
+<use pictures/6,6.png>
+Package pdftex.def Info: pictures/6,6.png  used on input line 7540.
+(pdftex.def)             Requested size: 143.03401pt x 137.01154pt.
+
+Underfull \hbox (badness 10000) in alignment at lines 7554--7554
+[][][][][][][] 
+ []
+
+[184 <./pictures/6,6.png>]
+<pictures/6,7.png, id=731, 177.66376pt x 138.5175pt>
+File: pictures/6,7.png Graphic file (type png)
+<use pictures/6,7.png>
+Package pdftex.def Info: pictures/6,7.png  used on input line 7569.
+(pdftex.def)             Requested size: 177.66331pt x 138.51715pt.
+ [185 <./pictures/6,7.png>]
+<pictures/6,8.png, id=735, 171.64125pt x 137.01187pt>
+File: pictures/6,8.png Graphic file (type png)
+<use pictures/6,8.png>
+Package pdftex.def Info: pictures/6,8.png  used on input line 7579.
+(pdftex.def)             Requested size: 171.64081pt x 137.01154pt.
+ [186 <./pictures/6,8.png>]
+<pictures/6,9.png, id=739, 166.37157pt x 100.87688pt>
+File: pictures/6,9.png Graphic file (type png)
+<use pictures/6,9.png>
+Package pdftex.def Info: pictures/6,9.png  used on input line 7611.
+(pdftex.def)             Requested size: 166.37114pt x 100.87662pt.
+<pictures/6,10.png, id=740, 244.66406pt x 102.3825pt>
+File: pictures/6,10.png Graphic file (type png)
+<use pictures/6,10.png>
+Package pdftex.def Info: pictures/6,10.png  used on input line 7611.
+(pdftex.def)             Requested size: 244.66345pt x 102.38225pt.
+<pictures/6,11.png, id=741, 376.40625pt x 124.96687pt>
+File: pictures/6,11.png Graphic file (type png)
+<use pictures/6,11.png>
+Package pdftex.def Info: pictures/6,11.png  used on input line 7626.
+(pdftex.def)             Requested size: 376.40532pt x 124.96657pt.
+ [187 <./pictures/6,9.png> <./pictures/6,10.png>] [188 <./pictures/6,11.png>]
+[189] [190]
+<pictures/195.png, id=756, 483.8075pt x 684.5575pt>
+File: pictures/195.png Graphic file (type png)
+<use pictures/195.png>
+Package pdftex.def Info: pictures/195.png  used on input line 7821.
+(pdftex.def)             Requested size: 120.95157pt x 171.13895pt.
+ [191 <./pictures/195.png>] [192]
+<pictures/197.png, id=765, 644.4075pt x 242.9075pt>
+File: pictures/197.png Graphic file (type png)
+<use pictures/197.png>
+Package pdftex.def Info: pictures/197.png  used on input line 7897.
+(pdftex.def)             Requested size: 225.546pt x 85.01889pt.
+ [193 <./pictures/197.png>]
+<pictures/198.png, id=771, 995.72pt x 540.0175pt>
+File: pictures/198.png Graphic file (type png)
+<use pictures/198.png>
+Package pdftex.def Info: pictures/198.png  used on input line 7915.
+(pdftex.def)             Requested size: 248.92938pt x 135.00404pt.
+
+[194 <./pictures/198.png>]
+<pictures/199a.png, id=776, 443.6575pt x 483.8075pt>
+File: pictures/199a.png Graphic file (type png)
+<use pictures/199a.png>
+Package pdftex.def Info: pictures/199a.png  used on input line 7949.
+(pdftex.def)             Requested size: 88.72992pt x 96.75978pt.
+<pictures/199b.png, id=777, 443.6575pt x 483.8075pt>
+File: pictures/199b.png Graphic file (type png)
+<use pictures/199b.png>
+Package pdftex.def Info: pictures/199b.png  used on input line 7953.
+(pdftex.def)             Requested size: 88.72992pt x 96.75978pt.
+<pictures/199c.png, id=778, 443.6575pt x 483.8075pt>
+File: pictures/199c.png Graphic file (type png)
+<use pictures/199c.png>
+Package pdftex.def Info: pictures/199c.png  used on input line 7957.
+(pdftex.def)             Requested size: 88.72992pt x 96.75978pt.
+<pictures/199d.png, id=779, 1126.2075pt x 604.2575pt>
+File: pictures/199d.png Graphic file (type png)
+<use pictures/199d.png>
+Package pdftex.def Info: pictures/199d.png  used on input line 7969.
+(pdftex.def)             Requested size: 281.5512pt x 151.064pt.
+ [195 <./pictures/199a.png> <./pictures/199b.png> <./pictures/199c.png> <./pict
+ures/199d.png>]
+<pictures/200.png, id=787, 532.99126pt x 426.59375pt>
+File: pictures/200.png Graphic file (type png)
+<use pictures/200.png>
+Package pdftex.def Info: pictures/200.png  used on input line 7997.
+(pdftex.def)             Requested size: 186.54973pt x 149.31004pt.
+ [196 <./pictures/200.png>]
+<pictures/201a.png, id=793, 143.53625pt x 644.4075pt>
+File: pictures/201a.png Graphic file (type png)
+<use pictures/201a.png>
+Package pdftex.def Info: pictures/201a.png  used on input line 8021.
+(pdftex.def)             Requested size: 35.88397pt x 161.10147pt.
+<pictures/201b.png, id=794, 485.815pt x 242.9075pt>
+File: pictures/201b.png Graphic file (type png)
+<use pictures/201b.png>
+Package pdftex.def Info: pictures/201b.png  used on input line 8025.
+(pdftex.def)             Requested size: 121.45345pt x 60.72672pt.
+ [197 <./pictures/201a.png> <./pictures/201b.png>]
+<pictures/202a.png, id=800, 283.0575pt x 283.0575pt>
+File: pictures/202a.png Graphic file (type png)
+<use pictures/202a.png>
+Package pdftex.def Info: pictures/202a.png  used on input line 8073.
+(pdftex.def)             Requested size: 84.9179pt x 84.9179pt.
+<pictures/202b.png, id=801, 283.0575pt x 283.0575pt>
+File: pictures/202b.png Graphic file (type png)
+<use pictures/202b.png>
+Package pdftex.def Info: pictures/202b.png  used on input line 8079.
+(pdftex.def)             Requested size: 84.9179pt x 84.9179pt.
+<pictures/202c.png, id=802, 283.0575pt x 283.0575pt>
+File: pictures/202c.png Graphic file (type png)
+<use pictures/202c.png>
+Package pdftex.def Info: pictures/202c.png  used on input line 8085.
+(pdftex.def)             Requested size: 84.9179pt x 84.9179pt.
+ [198 <./pictures/202a.png> <./pictures/202b.png> <./pictures/202c.png>]
+<pictures/203a.png, id=809, 183.68625pt x 443.6575pt>
+File: pictures/203a.png Graphic file (type png)
+<use pictures/203a.png>
+Package pdftex.def Info: pictures/203a.png  used on input line 8108.
+(pdftex.def)             Requested size: 45.92143pt x 110.9141pt.
+<pictures/203b.png, id=810, 355.3275pt x 283.0575pt>
+File: pictures/203b.png Graphic file (type png)
+<use pictures/203b.png>
+Package pdftex.def Info: pictures/203b.png  used on input line 8114.
+(pdftex.def)             Requested size: 88.83165pt x 70.76419pt.
+<pictures/203c.png, id=811, 393.47pt x 325.215pt>
+File: pictures/203c.png Graphic file (type png)
+<use pictures/203c.png>
+Package pdftex.def Info: pictures/203c.png  used on input line 8120.
+(pdftex.def)             Requested size: 98.36725pt x 81.30354pt.
+<pictures/204.png, id=812, 1005.7575pt x 566.115pt>
+File: pictures/204.png Graphic file (type png)
+<use pictures/204.png>
+Package pdftex.def Info: pictures/204.png  used on input line 8146.
+(pdftex.def)             Requested size: 301.72958pt x 169.8358pt.
+ [199 <./pictures/203a.png> <./pictures/203b.png> <./pictures/203c.png>] [200 <
+./pictures/204.png>] [201] [202]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 7.
+[203
+
+]
+<pictures/208a.png, id=834, 443.6575pt x 323.2075pt>
+File: pictures/208a.png Graphic file (type png)
+<use pictures/208a.png>
+Package pdftex.def Info: pictures/208a.png  used on input line 8235.
+(pdftex.def)             Requested size: 110.9141pt x 80.80167pt.
+LaTeX Font Info:    Try loading font information for T2A+cmss on input line 823
+5.
+ (/usr/share/texmf-dist/tex/latex/cyrillic/t2acmss.fd
+File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+<pictures/208b.png, id=835, 443.6575pt x 323.2075pt>
+File: pictures/208b.png Graphic file (type png)
+<use pictures/208b.png>
+Package pdftex.def Info: pictures/208b.png  used on input line 8239.
+(pdftex.def)             Requested size: 110.9141pt x 80.80167pt.
+<pictures/208c.png, id=836, 403.5075pt x 403.5075pt>
+File: pictures/208c.png Graphic file (type png)
+<use pictures/208c.png>
+Package pdftex.def Info: pictures/208c.png  used on input line 8247.
+(pdftex.def)             Requested size: 100.87662pt x 100.87662pt.
+<pictures/208d.png, id=837, 523.9575pt x 403.5075pt>
+File: pictures/208d.png Graphic file (type png)
+<use pictures/208d.png>
+Package pdftex.def Info: pictures/208d.png  used on input line 8251.
+(pdftex.def)             Requested size: 130.98904pt x 100.87662pt.
+ [204 <./pictures/208a.png> <./pictures/208b.png> <./pictures/208c.png> <./pict
+ures/208d.png>]
+<pictures/209.png, id=846, 939.51pt x 323.2075pt>
+File: pictures/209.png Graphic file (type png)
+<use pictures/209.png>
+Package pdftex.def Info: pictures/209.png  used on input line 8300.
+(pdftex.def)             Requested size: 375.79733pt x 129.2807pt.
+
+[205 <./pictures/209.png>]
+<pictures/210a.png, id=853, 523.9575pt x 494.84875pt>
+File: pictures/210a.png Graphic file (type png)
+<use pictures/210a.png>
+Package pdftex.def Info: pictures/210a.png  used on input line 8319.
+(pdftex.def)             Requested size: 130.98904pt x 123.71188pt.
+<pictures/210b.png, id=854, 523.9575pt x 487.8225pt>
+File: pictures/210b.png Graphic file (type png)
+<use pictures/210b.png>
+Package pdftex.def Info: pictures/210b.png  used on input line 8323.
+(pdftex.def)             Requested size: 130.98904pt x 121.95532pt.
+<pictures/211.png, id=855, 1117.17375pt x 354.32375pt>
+File: pictures/211.png Graphic file (type png)
+<use pictures/211.png>
+Package pdftex.def Info: pictures/211.png  used on input line 8343.
+(pdftex.def)             Requested size: 357.5029pt x 113.38591pt.
+ [206 <./pictures/210a.png> <./pictures/210b.png>]
+<pictures/212a.png, id=861, 523.9575pt x 487.8225pt>
+File: pictures/212a.png Graphic file (type png)
+<use pictures/212a.png>
+Package pdftex.def Info: pictures/212a.png  used on input line 8371.
+(pdftex.def)             Requested size: 130.98904pt x 121.95532pt.
+<pictures/212b.png, id=862, 523.9575pt x 487.8225pt>
+File: pictures/212b.png Graphic file (type png)
+<use pictures/212b.png>
+Package pdftex.def Info: pictures/212b.png  used on input line 8375.
+(pdftex.def)             Requested size: 130.98904pt x 121.95532pt.
+<pictures/212c.png, id=863, 523.9575pt x 487.8225pt>
+File: pictures/212c.png Graphic file (type png)
+<use pictures/212c.png>
+Package pdftex.def Info: pictures/212c.png  used on input line 8379.
+(pdftex.def)             Requested size: 130.98904pt x 121.95532pt.
+<pictures/212d.png, id=864, 523.9575pt x 487.8225pt>
+File: pictures/212d.png Graphic file (type png)
+<use pictures/212d.png>
+Package pdftex.def Info: pictures/212d.png  used on input line 8384.
+(pdftex.def)             Requested size: 130.98904pt x 121.95532pt.
+<pictures/212e.png, id=865, 523.9575pt x 487.8225pt>
+File: pictures/212e.png Graphic file (type png)
+<use pictures/212e.png>
+Package pdftex.def Info: pictures/212e.png  used on input line 8388.
+(pdftex.def)             Requested size: 130.98904pt x 121.95532pt.
+
+[207 <./pictures/211.png>] [208 <./pictures/212a.png> <./pictures/212b.png> <./
+pictures/212c.png> <./pictures/212d.png> <./pictures/212e.png>]
+<pictures/214a.png, id=878, 523.9575pt x 487.8225pt>
+File: pictures/214a.png Graphic file (type png)
+<use pictures/214a.png>
+Package pdftex.def Info: pictures/214a.png  used on input line 8454.
+(pdftex.def)             Requested size: 130.98904pt x 121.95532pt.
+<pictures/214b.png, id=879, 523.9575pt x 487.8225pt>
+File: pictures/214b.png Graphic file (type png)
+<use pictures/214b.png>
+Package pdftex.def Info: pictures/214b.png  used on input line 8458.
+(pdftex.def)             Requested size: 130.98904pt x 121.95532pt.
+<pictures/214c.png, id=880, 523.9575pt x 487.8225pt>
+File: pictures/214c.png Graphic file (type png)
+<use pictures/214c.png>
+Package pdftex.def Info: pictures/214c.png  used on input line 8462.
+(pdftex.def)             Requested size: 130.98904pt x 121.95532pt.
+<pictures/214d.png, id=881, 523.9575pt x 487.8225pt>
+File: pictures/214d.png Graphic file (type png)
+<use pictures/214d.png>
+Package pdftex.def Info: pictures/214d.png  used on input line 8467.
+(pdftex.def)             Requested size: 130.98904pt x 121.95532pt.
+<pictures/214e.png, id=882, 523.9575pt x 487.8225pt>
+File: pictures/214e.png Graphic file (type png)
+<use pictures/214e.png>
+Package pdftex.def Info: pictures/214e.png  used on input line 8471.
+(pdftex.def)             Requested size: 130.98904pt x 121.95532pt.
+ [209] [210 <./pictures/214a.png> <./pictures/214b.png> <./pictures/214c.png> <
+./pictures/214d.png> <./pictures/214e.png>] [211]
+<pictures/217a.png, id=898, 684.5575pt x 644.4075pt>
+File: pictures/217a.png Graphic file (type png)
+<use pictures/217a.png>
+Package pdftex.def Info: pictures/217a.png  used on input line 8557.
+(pdftex.def)             Requested size: 171.13895pt x 161.10147pt.
+<pictures/217b.png, id=899, 604.2575pt x 564.1075pt>
+File: pictures/217b.png Graphic file (type png)
+<use pictures/217b.png>
+Package pdftex.def Info: pictures/217b.png  used on input line 8562.
+(pdftex.def)             Requested size: 151.064pt x 141.02652pt.
+ [212 <./pictures/217a.png> <./pictures/217b.png>]
+<pictures/7_9.png, id=905, 792.561pt x 413.1435pt>
+File: pictures/7_9.png Graphic file (type png)
+<use pictures/7_9.png>
+Package pdftex.def Info: pictures/7_9.png  used on input line 8608.
+(pdftex.def)             Requested size: 301.1763pt x 156.99615pt.
+ [213]
+<pictures/7_10.png, id=909, 850.97925pt x 463.7325pt>
+File: pictures/7_10.png Graphic file (type png)
+<use pictures/7_10.png>
+Package pdftex.def Info: pictures/7_10.png  used on input line 8639.
+(pdftex.def)             Requested size: 323.37547pt x 176.22017pt.
+ [214 <./pictures/7_9.png> <./pictures/7_10.png>] [215]
+<pictures/7_11.png, id=918, 809.424pt x 443.85825pt>
+File: pictures/7_11.png Graphic file (type png)
+<use pictures/7_11.png>
+Package pdftex.def Info: pictures/7_11.png  used on input line 8721.
+(pdftex.def)             Requested size: 323.76387pt x 177.54015pt.
+<pictures/7_12.png, id=919, 411.939pt x 478.1865pt>
+File: pictures/7_12.png Graphic file (type png)
+<use pictures/7_12.png>
+Package pdftex.def Info: pictures/7_12.png  used on input line 8736.
+(pdftex.def)             Requested size: 156.53844pt x 181.71275pt.
+ [216 <./pictures/7_11.png> <./pictures/7_12.png>]
+<pictures/7_13.png, id=925, 616.10175pt x 464.33475pt>
+File: pictures/7_13.png Graphic file (type png)
+<use pictures/7_13.png>
+Package pdftex.def Info: pictures/7_13.png  used on input line 8761.
+(pdftex.def)             Requested size: 308.05013pt x 232.1668pt.
+ [217 <./pictures/7_13.png>]
+<pictures/7_14.png, id=931, 402.90524pt x 483.0045pt>
+File: pictures/7_14.png Graphic file (type png)
+<use pictures/7_14.png>
+Package pdftex.def Info: pictures/7_14.png  used on input line 8786.
+(pdftex.def)             Requested size: 193.39232pt x 231.83952pt.
+ [218 <./pictures/7_14.png>]
+<pictures/7_15.png, id=936, 619.71526pt x 195.73125pt>
+File: pictures/7_15.png Graphic file (type png)
+<use pictures/7_15.png>
+Package pdftex.def Info: pictures/7_15.png  used on input line 8831.
+(pdftex.def)             Requested size: 235.49423pt x 74.37863pt.
+<pictures/7_16.png, id=937, 775.09575pt x 263.7855pt>
+File: pictures/7_16.png Graphic file (type png)
+<use pictures/7_16.png>
+Package pdftex.def Info: pictures/7_16.png  used on input line 8858.
+(pdftex.def)             Requested size: 310.0328pt x 105.51233pt.
+ [219 <./pictures/7_15.png>] [220 <./pictures/7_16.png>] [221]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 8.
+[222
+
+] [223] [224] [225] [226] [227] [228]
+<pictures/8_1.png, id=971, 468.5505pt x 465.53925pt>
+File: pictures/8_1.png Graphic file (type png)
+<use pictures/8_1.png>
+Package pdftex.def Info: pictures/8_1.png  used on input line 9384.
+(pdftex.def)             Requested size: 458.08939pt x 455.1598pt.
+ [229]
+<pictures/8_2.png, id=976, 682.04813pt x 211.54031pt>
+File: pictures/8_2.png Graphic file (type png)
+<use pictures/8_2.png>
+Package pdftex.def Info: pictures/8_2.png  used on input line 9421.
+(pdftex.def)             Requested size: 272.8144pt x 84.61461pt.
+ [230 <./pictures/8_1.png>]
+[231 <./pictures/8_2.png>] [232]
+<pictures/8_3.png, id=987, 281.853pt x 436.63126pt>
+File: pictures/8_3.png Graphic file (type png)
+<use pictures/8_3.png>
+Package pdftex.def Info: pictures/8_3.png  used on input line 9559.
+(pdftex.def)             Requested size: 114.52234pt x 177.40765pt.
+ [233 <./pictures/8_3.png>] [234] [235]
+[236] [237] [238] [239] [240] [241]
+<pictures/list247.png, id=1018, 701.62125pt x 292.09125pt>
+File: pictures/list247.png Graphic file (type png)
+<use pictures/list247.png>
+Package pdftex.def Info: pictures/list247.png  used on input line 10049.
+(pdftex.def)             Requested size: 366.4729pt x 152.57022pt.
+ [242 <./pictures/list247.png>] [243]
+[244] [245] [246] [247]
+<pictures/tree254.png, id=1039, 624.83438pt x 574.39594pt>
+File: pictures/tree254.png Graphic file (type png)
+<use pictures/tree254.png>
+Package pdftex.def Info: pictures/tree254.png  used on input line 10432.
+(pdftex.def)             Requested size: 407.69926pt x 374.79907pt.
+ [248] [249 <./pictures/tree254.png>]
+<pictures/vesi255.png, id=1047, 588.69937pt x 262.73157pt>
+File: pictures/vesi255.png Graphic file (type png)
+<use pictures/vesi255.png>
+Package pdftex.def Info: pictures/vesi255.png  used on input line 10478.
+(pdftex.def)             Requested size: 426.01976pt x 190.12872pt.
+ [250 <./pictures/vesi255.png>] [251] [252] [253] [254] [255] [256]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 9.
+[257
+
+] [258] [259] [260] [261] [262] [263] [264] [265] [266]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 10.
+<pictures/101.png, id=1106, 845.40843pt x 292.09125pt>
+File: pictures/101.png Graphic file (type png)
+<use pictures/101.png>
+Package pdftex.def Info: pictures/101.png  used on input line 11471.
+(pdftex.def)             Requested size: 321.25853pt x 110.99582pt.
+[267
+
+]
+<pictures/102.png, id=1110, 798.985pt x 121.45375pt>
+File: pictures/102.png Graphic file (type png)
+<use pictures/102.png>
+Package pdftex.def Info: pictures/102.png  used on input line 11508.
+(pdftex.def)             Requested size: 303.61745pt x 46.1529pt.
+ [268 <./pictures/101.png> <./pictures/102.png>] [269]
+<pictures/103.png, id=1119, 831.105pt x 367.3725pt>
+File: pictures/103.png Graphic file (type png)
+<use pictures/103.png>
+Package pdftex.def Info: pictures/103.png  used on input line 11632.
+(pdftex.def)             Requested size: 290.8911pt x 128.58229pt.
+ [270] [271 <./pictures/103.png>]
+<pictures/104.png, id=1128, 340.27126pt x 340.27126pt>
+File: pictures/104.png Graphic file (type png)
+<use pictures/104.png>
+Package pdftex.def Info: pictures/104.png  used on input line 11736.
+(pdftex.def)             Requested size: 135.04259pt x 135.0417pt.
+ [272 <./pictures/104.png>]
+<pictures/105.png, id=1133, 420.06938pt x 327.47343pt>
+File: pictures/105.png Graphic file (type png)
+<use pictures/105.png>
+Package pdftex.def Info: pictures/105.png  used on input line 11818.
+(pdftex.def)             Requested size: 210.03418pt x 163.73631pt.
+ [273] [274 <./pictures/105.png>]
+<pictures/106.png, id=1141, 557.83406pt x 330.48468pt>
+File: pictures/106.png Graphic file (type png)
+<use pictures/106.png>
+Package pdftex.def Info: pictures/106.png  used on input line 11881.
+(pdftex.def)             Requested size: 278.91634pt x 165.24193pt.
+
+[275 <./pictures/106.png>]
+<pictures/107.png, id=1146, 499.8675pt x 340.27126pt>
+File: pictures/107.png Graphic file (type png)
+<use pictures/107.png>
+Package pdftex.def Info: pictures/107.png  used on input line 11913.
+(pdftex.def)             Requested size: 249.93314pt x 170.13521pt.
+ [276 <./pictures/107.png>] [277]
+<pictures/108.png, id=1155, 242.40562pt x 249.18094pt>
+File: pictures/108.png Graphic file (type png)
+<use pictures/108.png>
+Package pdftex.def Info: pictures/108.png  used on input line 12027.
+(pdftex.def)             Requested size: 210.72418pt x 216.62596pt.
+<pictures/109.png, id=1156, 303.38344pt x 296.60812pt>
+File: pictures/109.png Graphic file (type png)
+<use pictures/109.png>
+Package pdftex.def Info: pictures/109.png  used on input line 12032.
+(pdftex.def)             Requested size: 210.72418pt x 206.02211pt.
+ [278 <./pictures/108.png> <./pictures/109.png>]
+<pictures/1010.png, id=1162, 244.66406pt x 137.7647pt>
+File: pictures/1010.png Graphic file (type png)
+<use pictures/1010.png>
+Package pdftex.def Info: pictures/1010.png  used on input line 12084.
+(pdftex.def)             Requested size: 134.56564pt x 75.7708pt.
+ [279 <./pictures/1010.png>]
+<pictures/1011h.png, id=1167, 348.30125pt x 121.45375pt>
+File: pictures/1011h.png Graphic file (type png)
+<use pictures/1011h.png>
+Package pdftex.def Info: pictures/1011h.png  used on input line 12130.
+(pdftex.def)             Requested size: 174.15019pt x 60.72672pt.
+<pictures/1011.png, id=1168, 810.02625pt x 343.2825pt>
+File: pictures/1011.png Graphic file (type png)
+<use pictures/1011.png>
+Package pdftex.def Info: pictures/1011.png  used on input line 12135.
+(pdftex.def)             Requested size: 324.00475pt x 137.31056pt.
+ [280 <./pictures/1011h.png> <./pictures/1011.png>] [281]
+<pictures/xo.png, id=1177, 608.2725pt x 438.13687pt>
+File: pictures/xo.png Graphic file (type png)
+<use pictures/xo.png>
+Package pdftex.def Info: pictures/xo.png  used on input line 12198.
+(pdftex.def)             Requested size: 425.78786pt x 306.69371pt.
+ [282 <./pictures/xo.png>] [283] [284]
+<pictures/Screenshot_20180702_123616.png, id=1188, 749.04843pt x 419.31656pt>
+File: pictures/Screenshot_20180702_123616.png Graphic file (type png)
+<use pictures/Screenshot_20180702_123616.png>
+Package pdftex.def Info: pictures/Screenshot_20180702_123616.png  used on input
+ line 12334.
+(pdftex.def)             Requested size: 374.5233pt x 209.65776pt.
+
+[285 <./pictures/Screenshot_20180702_123616.png (PNG copy)>]
+<pictures/tree.png, id=1192, 1058.45438pt x 499.8675pt>
+File: pictures/tree.png Graphic file (type png)
+<use pictures/tree.png>
+Package pdftex.def Info: pictures/tree.png  used on input line 12354.
+(pdftex.def)             Requested size: 423.37425pt x 199.94345pt.
+<pictures/table.png, id=1193, 715.17188pt x 580.41844pt>
+File: pictures/table.png Graphic file (type png)
+<use pictures/table.png>
+Package pdftex.def Info: pictures/table.png  used on input line 12374.
+(pdftex.def)             Requested size: 429.10643pt x 348.25375pt.
+ [286 <./pictures/tree.png (PNG copy)>] [287 <./pictures/table.png (PNG copy)>]
+<pictures/graph.png, id=1200, 558.58687pt x 377.91188pt>
+File: pictures/graph.png Graphic file (type png)
+<use pictures/graph.png>
+Package pdftex.def Info: pictures/graph.png  used on input line 12414.
+(pdftex.def)             Requested size: 363.07716pt x 245.6398pt.
+ [288]
+<pictures/table2.png, id=1204, 632.3625pt x 414.79968pt>
+File: pictures/table2.png Graphic file (type png)
+<use pictures/table2.png>
+Package pdftex.def Info: pictures/table2.png  used on input line 12447.
+(pdftex.def)             Requested size: 379.42043pt x 248.88173pt.
+ [289 <./pictures/graph.png (PNG copy)>] [290 <./pictures/table2.png>] [291]
+<pictures/grafs.png, id=1215, 582.67688pt x 372.64218pt>
+File: pictures/grafs.png Graphic file (type png)
+<use pictures/grafs.png>
+Package pdftex.def Info: pictures/grafs.png  used on input line 12537.
+(pdftex.def)             Requested size: 407.87103pt x 260.84775pt.
+ [292 <./pictures/grafs.png>]
+<pictures/func.png, id=1219, 541.27219pt x 315.42844pt>
+File: pictures/func.png Graphic file (type png)
+<use pictures/func.png>
+Package pdftex.def Info: pictures/func.png  used on input line 12570.
+(pdftex.def)             Requested size: 270.63542pt x 157.71382pt.
+<pictures/circle.png, id=1220, 299.61937pt x 219.82124pt>
+File: pictures/circle.png Graphic file (type png)
+<use pictures/circle.png>
+Package pdftex.def Info: pictures/circle.png  used on input line 12577.
+(pdftex.def)             Requested size: 149.80931pt x 109.91034pt.
+ [293 <./pictures/func.png>]
+<pictures/pent.png, id=1224, 543.53062pt x 157.33781pt>
+File: pictures/pent.png Graphic file (type png)
+<use pictures/pent.png>
+Package pdftex.def Info: pictures/pent.png  used on input line 12597.
+(pdftex.def)             Requested size: 434.82507pt x 125.8704pt.
+ [294 <./pictures/circle.png> <./pictures/pent.png>]
+<pictures/krug.png, id=1228, 173.14688pt x 161.85469pt>
+File: pictures/krug.png Graphic file (type png)
+<use pictures/krug.png>
+Package pdftex.def Info: pictures/krug.png  used on input line 12631.
+(pdftex.def)             Requested size: 103.88892pt x 97.11354pt.
+ [295 <./pictures/krug.png>]
+<pictures/fuck.png, id=1233, 515.67656pt x 221.32687pt>
+File: pictures/fuck.png Graphic file (type png)
+<use pictures/fuck.png>
+Package pdftex.def Info: pictures/fuck.png  used on input line 12693.
+(pdftex.def)             Requested size: 309.40831pt x 132.79713pt.
+ [296 <./pictures/fuck.png>] [297]
+[298]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 11.
+[299
+
+] [300]
+<pictures/s.png, id=1250, 413.29407pt x 33.87656pt>
+File: pictures/s.png Graphic file (type png)
+<use pictures/s.png>
+Package pdftex.def Info: pictures/s.png  used on input line 12911.
+(pdftex.def)             Requested size: 413.29305pt x 33.87646pt.
+ [301 <./pictures/s.png>] [302] [303] [304] [305] [306] [307]
+<pictures/boxes.png, id=1275, 517.18219pt x 237.13594pt>
+File: pictures/boxes.png Graphic file (type png)
+<use pictures/boxes.png>
+Package pdftex.def Info: pictures/boxes.png  used on input line 13282.
+(pdftex.def)             Requested size: 413.7463pt x 189.709pt.
+
+[308 <./pictures/boxes.png>]
+<pictures/113.png, id=1279, 420.82219pt x 520.19344pt>
+File: pictures/113.png Graphic file (type png)
+<use pictures/113.png>
+Package pdftex.def Info: pictures/113.png  used on input line 13322.
+(pdftex.def)             Requested size: 294.57352pt x 364.13292pt.
+ [309]
+<pictures/114.png, id=1283, 575.14874pt x 478.78876pt>
+File: pictures/114.png Graphic file (type png)
+<use pictures/114.png>
+Package pdftex.def Info: pictures/114.png  used on input line 13341.
+(pdftex.def)             Requested size: 402.60138pt x 335.14984pt.
+ [310 <./pictures/113.png>] [311 <./pictures/114.png>] [312]
+<pictures/11_5.png, id=1295, 619.31375pt x 246.9225pt>
+File: pictures/11_5.png Graphic file (type png)
+<use pictures/11_5.png>
+Package pdftex.def Info: pictures/11_5.png  used on input line 13417.
+(pdftex.def)             Requested size: 247.72112pt x 98.76724pt.
+ [313 <./pictures/11_5.png>]
+<pictures/11_6.png, id=1301, 855.195pt x 242.9075pt>
+File: pictures/11_6.png Graphic file (type png)
+<use pictures/11_6.png>
+Package pdftex.def Info: pictures/11_6.png  used on input line 13476.
+(pdftex.def)             Requested size: 342.07195pt x 97.16127pt.
+ [314] [315 <./pictures/11_6.png>]
+[316] [317] [318]
+<pictures/329.png, id=1318, 495.35063pt x 136.25906pt>
+File: pictures/329.png Graphic file (type png)
+<use pictures/329.png>
+Package pdftex.def Info: pictures/329.png  used on input line 13569.
+(pdftex.def)             Requested size: 458.08939pt x 126.0106pt.
+ [319 <./pictures/329.png>]
+<pictures/11_8.png, id=1324, 814.54312pt x 215.30438pt>
+File: pictures/11_8.png Graphic file (type png)
+<use pictures/11_8.png>
+Package pdftex.def Info: pictures/11_8.png  used on input line 13620.
+(pdftex.def)             Requested size: 407.27055pt x 107.65192pt.
+<pictures/11_9.png, id=1325, 808.52063pt x 216.05719pt>
+File: pictures/11_9.png Graphic file (type png)
+<use pictures/11_9.png>
+Package pdftex.def Info: pictures/11_9.png  used on input line 13625.
+(pdftex.def)             Requested size: 404.25932pt x 108.02832pt.
+ [320] [321 <./pictures/11_8.png> <./pictures/11_9.png>] [322] [323] [324] [325
+] [326]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 12.
+[327
+
+] [328]
+<pictures/12_1a.png, id=1355, 631.60968pt x 111.41624pt>
+File: pictures/12_1a.png Graphic file (type png)
+<use pictures/12_1a.png>
+Package pdftex.def Info: pictures/12_1a.png  used on input line 13831.
+(pdftex.def)             Requested size: 458.08939pt x 80.80785pt.
+<pictures/12_1b.png, id=1356, 636.12656pt x 113.67468pt>
+File: pictures/12_1b.png Graphic file (type png)
+<use pictures/12_1b.png>
+Package pdftex.def Info: pictures/12_1b.png  used on input line 13836.
+(pdftex.def)             Requested size: 458.08939pt x 81.85957pt.
+ [329 <./pictures/12_1a.png> <./pictures/12_1b.png>] [330] [331]
+[332] [333] [334]
+<pictures/12_3.png, id=1378, 554.07pt x 392.96812pt>
+File: pictures/12_3.png Graphic file (type png)
+<use pictures/12_3.png>
+Package pdftex.def Info: pictures/12_3.png  used on input line 14121.
+(pdftex.def)             Requested size: 443.2566pt x 314.37491pt.
+ [335 <./pictures/12_3.png>]
+<pictures/12_4.png, id=1382, 530.73282pt x 465.23813pt>
+File: pictures/12_4.png Graphic file (type png)
+<use pictures/12_4.png>
+Package pdftex.def Info: pictures/12_4.png  used on input line 14191.
+(pdftex.def)             Requested size: 458.0248pt x 401.50258pt.
+ [336] [337 <./pictures/12_4.png>] [338] [339]
+<pictures/first.jpg, id=1397, 487.06969pt x 226.59656pt>
+File: pictures/first.jpg Graphic file (type jpg)
+<use pictures/first.jpg>
+Package pdftex.def Info: pictures/first.jpg  used on input line 14381.
+(pdftex.def)             Requested size: 438.35866pt x 203.935pt.
+ [340]
+<pictures/second.jpg, id=1401, 475.7775pt x 211.54031pt>
+File: pictures/second.jpg Graphic file (type jpg)
+<use pictures/second.jpg>
+Package pdftex.def Info: pictures/second.jpg  used on input line 14391.
+(pdftex.def)             Requested size: 428.19577pt x 190.3845pt.
+ [341 <./pictures/first.jpg>] [342 <./pictures/second.jpg>]
+[343] [344]
+<pictures/third.jpg, id=1415, 493.0922pt x 218.31563pt>
+File: pictures/third.jpg Graphic file (type jpg)
+<use pictures/third.jpg>
+Package pdftex.def Info: pictures/third.jpg  used on input line 14466.
+(pdftex.def)             Requested size: 443.77887pt x 196.48222pt.
+ [345 <./pictures/third.jpg>] [346] [347]
+<pictures/fourth.jpg, id=1425, 690.32906pt x 315.42844pt>
+File: pictures/fourth.jpg Graphic file (type jpg)
+<use pictures/fourth.jpg>
+Package pdftex.def Info: pictures/fourth.jpg  used on input line 14523.
+(pdftex.def)             Requested size: 414.20064pt x 189.25851pt.
+ [348 <./pictures/fourth.jpg>] [349] [350]
+<pictures/fifth.jpg, id=1437, 699.36281pt x 426.84468pt>
+File: pictures/fifth.jpg Graphic file (type jpg)
+<use pictures/fifth.jpg>
+Package pdftex.def Info: pictures/fifth.jpg  used on input line 14571.
+(pdftex.def)             Requested size: 454.58044pt x 277.44576pt.
+ [351 <./pictures/fifth.jpg>] [352]
+<pictures/sixth.jpg, id=1444, 692.5875pt x 324.46219pt>
+File: pictures/sixth.jpg Graphic file (type jpg)
+<use pictures/sixth.jpg>
+Package pdftex.def Info: pictures/sixth.jpg  used on input line 14619.
+(pdftex.def)             Requested size: 457.10916pt x 214.14569pt.
+ [353 <./pictures/sixth.jpg>]
+<pictures/seventh.jpg, id=1448, 779.16093pt x 73.77562pt>
+File: pictures/seventh.jpg Graphic file (type jpg)
+<use pictures/seventh.jpg>
+Package pdftex.def Info: pictures/seventh.jpg  used on input line 14630.
+(pdftex.def)             Requested size: 451.91365pt x 42.78987pt.
+<pictures/eighth.jpg, id=1449, 423.08063pt x 62.48344pt>
+File: pictures/eighth.jpg Graphic file (type jpg)
+<use pictures/eighth.jpg>
+Package pdftex.def Info: pictures/eighth.jpg  used on input line 14649.
+(pdftex.def)             Requested size: 253.85033pt x 37.49034pt.
+[354 <./pictures/seventh.jpg> <./pictures/eighth.jpg>] [355] [356] [357
+
+]
+[358] [359] [360] [361] [362] (./main.ind [363
+
+
+] [364] [365] [366] [367]
+[368])
+
+Package imakeidx Warning: Remember to run (pdf)latex again after calling
+(imakeidx)                `texindy main.idx'.
+
+[369] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 11980 strings out of 492649
+ 164808 string characters out of 6135779
+ 303678 words of memory out of 5000000
+ 15441 multiletter control sequences out of 15000+600000
+ 46066 words of font info for 107 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,19n,80p,3416b,1161s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2
+a.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
+></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
+.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmu10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/e
+uler/eurm10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msam
+10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></
+usr/share/texmf-dist/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texmf
+-dist/fonts/type1/public/cm-super/sfbi1440.pfb></usr/share/texmf-dist/fonts/typ
+e1/public/cm-super/sfbx1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-su
+per/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pf
+b></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/t
+exmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf-dist/fonts
+/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf-dist/fonts/type1/public/c
+m-super/sfcc1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfcc109
+5.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb></usr/sha
+re/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf-dist/f
+onts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfr
+m1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr
+/share/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/share/texmf-di
+st/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf-dist/fonts/type1/
+public/cm-super/sfss1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super
+/sfti0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><
+/usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/share/texm
+f-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/cm-super/sftt1200.pfb></usr/share/texmf-dist/fonts/type1/public/tipa
+/tipa12.pfb>
+Output written on main.pdf (369 pages, 8953878 bytes).
+PDF statistics:
+ 1664 PDF objects out of 1728 (max. 8388607)
+ 961 compressed objects within 10 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 851 words of extra memory for PDF output out of 10000 (max. 10000000)
+
